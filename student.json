@@ -1,14 +1,26 @@
 [
   {
     "name": "user A",
-    "Age": 10
+    "age": 10,
+    "info": {
+      "A": 1,
+      "B": 2
+    }
   },
   {
     "name": "user B",
-    "Age": 20
+    "age": 20,
+    "info": {
+      "A": 1,
+      "B": 2
+    }
   },
   {
     "name": "user C",
-    "Age": 30
+    "age": 30,
+    "info": {
+      "A": 1,
+      "B": 2
+    }
   }
 ]
