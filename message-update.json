@@ -1,0 +1,4826 @@
+[
+    {
+        "id": "256_tw_1143200380815233024_1196473044127997954",
+        "mid": "tw_1143200380815233024_1196473044127997954",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @netflixth: ดู #เคว้ง จบแล้ว เลือกชิปคู่ไหนดีอ่ะพวกเรา ? 🤔\n\n#TheStrandedNetflix",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 77
+            }
+        ],
+        "link": "http://twitter.com/nut_perth1420/status/1196473044127997954",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 38
+            },
+            {
+                "code": "tha",
+                "percent": 50
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1143200380815233024",
+                "updated_time": 1577034963839,
+                "created_time": 1563198778334,
+                "ori_id": "1143200380815233024",
+                "name": "nut_perth1420",
+                "display_name": "Nut.tim_perth1404",
+                "link": "https://twitter.com/nut_perth1420",
+                "img": "http://pbs.twimg.com/profile_images/1143200717919834122/v0AtL0MM_normal.jpg",
+                "tw_followers_count": 34,
+                "tw_statuses_count": 1377,
+                "tw_friends_count": 241
+            },
+            "to": {
+                "id": "twitter_856908850959482880",
+                "updated_time": 1577083335799,
+                "created_time": 1553067868170,
+                "ori_id": "856908850959482880",
+                "name": "netflixth",
+                "display_name": "Netflix Thailand",
+                "link": "https://twitter.com/netflixth",
+                "img": "http://pbs.twimg.com/profile_images/856909714390634496/GrQzag25_normal.jpg",
+                "tw_followers_count": 378780,
+                "tw_statuses_count": 1946,
+                "tw_friends_count": 53
+            },
+            "on": {
+                "id": "twitter_1143200380815233024",
+                "updated_time": 1577034963839,
+                "created_time": 1563198778334,
+                "ori_id": "1143200380815233024",
+                "name": "nut_perth1420",
+                "display_name": "Nut.tim_perth1404",
+                "link": "https://twitter.com/nut_perth1420",
+                "img": "http://pbs.twimg.com/profile_images/1143200717919834122/v0AtL0MM_normal.jpg",
+                "tw_followers_count": 34,
+                "tw_statuses_count": 1377,
+                "tw_friends_count": 241
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181159",
+        "updated_time": 1574096382940,
+        "sys_time": 1574096382940,
+        "last_action_time": 1576828663714,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1143200380815233024"
+    },
+    {
+        "id": "256_fb_2481311388591266_2481328478589557",
+        "mid": "fb_2481311388591266_2481328478589557",
+        "channel": "facebook",
+        "data_type": "facebook_tl",
+        "type": 2,
+        "is_topic": false,
+        "topic": "Commented",
+        "desc": "มีทรงดีครับแต่เหมือนยังดงกึ่งยิงกึ่งผ่านเผื่อซีซันต่อไป",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 100
+            }
+        ],
+        "link": "http://www.facebook.com/107702679285494_2481311388591266?comment_id=2481328478589557",
+        "alphabet_langs": [
+            {
+                "code": "tha",
+                "percent": 100
+            }
+        ],
+        "domain": "facebook.com",
+        "info": {
+            "default_country": "th",
+            "from": {},
+            "to": {},
+            "on": {},
+            "media": null,
+            "engagement": 1,
+            "likes": 1,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181158",
+        "updated_time": 1574174184552,
+        "sys_time": 1574174184552,
+        "last_action_time": 1576828663709,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z"
+    },
+    {
+        "id": "256_tw_702828873319223296_1196472195997847552",
+        "mid": "tw_702828873319223296_1196472195997847552",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @_kasy_: ถ้าตัดพาร์ทเหนือธรรมชาติออกไป #เคว้ง สะท้อนสังคมได้ดี โดยเฉพาะตัวละครอนันต์ เป็นตัวที่สมเหตุสมผลมากตัวนึง ชอบการปูปมในใจ แล้วค่อยๆ ผูกเรื่องไล่ระดับให้เห็นพัฒนาการของตัวละคร เหมือนเตือนสติคนดูว่า ณ จุดนึงเราอาจจะพัฒนาตัวเองไปเป็นอนันต์อย่างไม่รู้ตัวก็ได้ #TheStrandedNetflix https://t.co/f1TaQa7vrj",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 93
+            },
+            {
+                "code": "en",
+                "percent": 6
+            }
+        ],
+        "link": "http://twitter.com/MMink_S/status/1196472195997847552",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 14
+            },
+            {
+                "code": "tha",
+                "percent": 82
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_702828873319223296",
+                "updated_time": 1577064875200,
+                "created_time": 1553068256652,
+                "ori_id": "702828873319223296",
+                "name": "MMink_S",
+                "display_name": "mmykxs",
+                "link": "https://twitter.com/MMink_S",
+                "img": "http://pbs.twimg.com/profile_images/888635474746593282/PGnf89Do_normal.jpg",
+                "tw_followers_count": 49,
+                "tw_statuses_count": 7040,
+                "tw_friends_count": 883
+            },
+            "to": {
+                "id": "twitter_1126527453256486912",
+                "updated_time": 1576522049970,
+                "created_time": 1569670038997,
+                "ori_id": "1126527453256486912",
+                "name": "_kasy_",
+                "display_name": "kasy",
+                "link": "https://twitter.com/_kasy_",
+                "img": "http://pbs.twimg.com/profile_images/1178379545562374144/TM-a00hV_normal.jpg",
+                "tw_followers_count": 20,
+                "tw_statuses_count": 991,
+                "tw_friends_count": 46
+            },
+            "on": {
+                "id": "twitter_702828873319223296",
+                "updated_time": 1577064875200,
+                "created_time": 1553068256652,
+                "ori_id": "702828873319223296",
+                "name": "MMink_S",
+                "display_name": "mmykxs",
+                "link": "https://twitter.com/MMink_S",
+                "img": "http://pbs.twimg.com/profile_images/888635474746593282/PGnf89Do_normal.jpg",
+                "tw_followers_count": 49,
+                "tw_statuses_count": 7040,
+                "tw_friends_count": 883
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181156",
+        "updated_time": 1574098579752,
+        "sys_time": 1574098579752,
+        "last_action_time": 1576828663724,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "702828873319223296"
+    },
+    {
+        "id": "256_tw_4830646694_1196472074627244032",
+        "mid": "tw_4830646694_1196472074627244032",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @Pound_tv5: 2หนุ่มมาส่งเข้านอน อย่าลืมติดตาม เคว้ง ด้วยนะครับ ทาง #Netflix #เคว้ง @perthppe #รอยยิ้มของชูครีม  @weTEMPTyou https://t.co/osSisn3lfM",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 76
+            },
+            {
+                "code": "en",
+                "percent": 22
+            }
+        ],
+        "link": "http://twitter.com/boonzoonlee/status/1196472074627244032",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 38
+            },
+            {
+                "code": "tha",
+                "percent": 51
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_4830646694",
+                "updated_time": 1577080744744,
+                "created_time": 1553069088480,
+                "ori_id": "4830646694",
+                "name": "boonzoonlee",
+                "display_name": "🐥🐥zoonlee🐣🐣",
+                "link": "https://twitter.com/boonzoonlee",
+                "img": "http://pbs.twimg.com/profile_images/1180354347483332609/12CjQgMg_normal.jpg",
+                "tw_followers_count": 177,
+                "tw_statuses_count": 222969,
+                "tw_friends_count": 133
+            },
+            "to": {
+                "id": "twitter_515447630",
+                "updated_time": 1576983771770,
+                "created_time": 1555741406490,
+                "ori_id": "515447630",
+                "name": "Pound_tv5",
+                "display_name": "pound",
+                "link": "https://twitter.com/Pound_tv5",
+                "img": "http://pbs.twimg.com/profile_images/927065081745088512/VE-FdJmS_normal.jpg",
+                "tw_followers_count": 165,
+                "tw_statuses_count": 700,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_4830646694",
+                "updated_time": 1577080744744,
+                "created_time": 1553069088480,
+                "ori_id": "4830646694",
+                "name": "boonzoonlee",
+                "display_name": "🐥🐥zoonlee🐣🐣",
+                "link": "https://twitter.com/boonzoonlee",
+                "img": "http://pbs.twimg.com/profile_images/1180354347483332609/12CjQgMg_normal.jpg",
+                "tw_followers_count": 177,
+                "tw_statuses_count": 222969,
+                "tw_friends_count": 133
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181155",
+        "updated_time": 1574096151776,
+        "sys_time": 1574096151776,
+        "last_action_time": 1576828663650,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "4830646694"
+    },
+    {
+        "id": "256_tw_3299169265_1196472037398630400",
+        "mid": "tw_3299169265_1196472037398630400",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @Pound_tv5: 2หนุ่มมาส่งเข้านอน อย่าลืมติดตาม เคว้ง ด้วยนะครับ ทาง #Netflix #เคว้ง @perthppe #รอยยิ้มของชูครีม  @weTEMPTyou https://t.co/osSisn3lfM",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 76
+            },
+            {
+                "code": "en",
+                "percent": 22
+            }
+        ],
+        "link": "http://twitter.com/ddew__w/status/1196472037398630400",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 38
+            },
+            {
+                "code": "tha",
+                "percent": 51
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_3299169265",
+                "updated_time": 1577076619718,
+                "created_time": 1555341194023,
+                "ori_id": "3299169265",
+                "gender": 2,
+                "name": "ddew__w",
+                "display_name": "𝑨𝒏𝒅𝒆𝒘",
+                "link": "https://twitter.com/ddew__w",
+                "img": "http://pbs.twimg.com/profile_images/1193219994605088773/k5DWgy0d_normal.jpg",
+                "tw_followers_count": 28,
+                "tw_statuses_count": 6350,
+                "tw_friends_count": 47
+            },
+            "to": {
+                "id": "twitter_515447630",
+                "updated_time": 1576983771770,
+                "created_time": 1555741406490,
+                "ori_id": "515447630",
+                "name": "Pound_tv5",
+                "display_name": "pound",
+                "link": "https://twitter.com/Pound_tv5",
+                "img": "http://pbs.twimg.com/profile_images/927065081745088512/VE-FdJmS_normal.jpg",
+                "tw_followers_count": 165,
+                "tw_statuses_count": 700,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_3299169265",
+                "updated_time": 1577076619718,
+                "created_time": 1555341194023,
+                "ori_id": "3299169265",
+                "gender": 2,
+                "name": "ddew__w",
+                "display_name": "𝑨𝒏𝒅𝒆𝒘",
+                "link": "https://twitter.com/ddew__w",
+                "img": "http://pbs.twimg.com/profile_images/1193219994605088773/k5DWgy0d_normal.jpg",
+                "tw_followers_count": 28,
+                "tw_statuses_count": 6350,
+                "tw_friends_count": 47
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181155",
+        "updated_time": 1574096142989,
+        "sys_time": 1574096142989,
+        "last_action_time": 1576828663667,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "3299169265"
+    },
+    {
+        "id": "256_tw_1055771618499149825_1196472006364954624",
+        "mid": "tw_1055771618499149825_1196472006364954624",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @Pound_tv5: 2หนุ่มมาส่งเข้านอน อย่าลืมติดตาม เคว้ง ด้วยนะครับ ทาง #Netflix #เคว้ง @perthppe #รอยยิ้มของชูครีม  @weTEMPTyou https://t.co/osSisn3lfM",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 76
+            },
+            {
+                "code": "en",
+                "percent": 22
+            }
+        ],
+        "link": "http://twitter.com/SKY_O2_/status/1196472006364954624",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 38
+            },
+            {
+                "code": "tha",
+                "percent": 51
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1055771618499149825",
+                "updated_time": 1576130081027,
+                "created_time": 1553103667584,
+                "ori_id": "1055771618499149825",
+                "name": "SKY_O2_",
+                "display_name": "SKY_O2",
+                "link": "https://twitter.com/SKY_O2_",
+                "img": "http://pbs.twimg.com/profile_images/1108068583722999808/ikQW-lkP_normal.jpg",
+                "tw_followers_count": 20,
+                "tw_statuses_count": 28916,
+                "tw_friends_count": 65
+            },
+            "to": {
+                "id": "twitter_515447630",
+                "updated_time": 1576983771770,
+                "created_time": 1555741406490,
+                "ori_id": "515447630",
+                "name": "Pound_tv5",
+                "display_name": "pound",
+                "link": "https://twitter.com/Pound_tv5",
+                "img": "http://pbs.twimg.com/profile_images/927065081745088512/VE-FdJmS_normal.jpg",
+                "tw_followers_count": 165,
+                "tw_statuses_count": 700,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_1055771618499149825",
+                "updated_time": 1576130081027,
+                "created_time": 1553103667584,
+                "ori_id": "1055771618499149825",
+                "name": "SKY_O2_",
+                "display_name": "SKY_O2",
+                "link": "https://twitter.com/SKY_O2_",
+                "img": "http://pbs.twimg.com/profile_images/1108068583722999808/ikQW-lkP_normal.jpg",
+                "tw_followers_count": 20,
+                "tw_statuses_count": 28916,
+                "tw_friends_count": 65
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181155",
+        "updated_time": 1574096135522,
+        "sys_time": 1574096135522,
+        "last_action_time": 1576828663648,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1055771618499149825"
+    },
+    {
+        "id": "256_fb_809382136182446_812360809217912",
+        "mid": "fb_809382136182446_812360809217912",
+        "channel": "facebook",
+        "data_type": "facebook_tl",
+        "type": 2,
+        "is_topic": false,
+        "topic": "Commented",
+        "desc": "Khvan Bkk บอกว่าชอบเข้มๆ",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 80
+            }
+        ],
+        "link": "http://www.facebook.com/272824953171503_809382136182446?comment_id=812360809217912",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 36
+            },
+            {
+                "code": "tha",
+                "percent": 64
+            }
+        ],
+        "domain": "facebook.com",
+        "info": {
+            "default_country": "th",
+            "from": {},
+            "to": {},
+            "on": {
+                "id": "facebook_272824953171503",
+                "updated_time": 1577075538812,
+                "created_time": 1553066544757,
+                "ori_id": "272824953171503",
+                "gender": 1,
+                "name": "272824953171503",
+                "display_name": "Netflix",
+                "link": "https://www.facebook.com/272824953171503",
+                "img": "https://graph.facebook.com/272824953171503/picture",
+                "fb_talk_about": 89969,
+                "fb_fan_count": 61870653
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181155",
+        "updated_time": 1574097997998,
+        "sys_time": 1574097997998,
+        "last_action_time": 1576828663647,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd2467e57633c7e4fb61355",
+                "name": "คราม",
+                "sentiment": 0
+            },
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "272824953171503"
+    },
+    {
+        "id": "256_tw_1143286280119300099_1196471973758619659",
+        "mid": "tw_1143286280119300099_1196471973758619659",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 1,
+        "is_topic": false,
+        "topic": "Replied",
+        "desc": "@netflixth คู่ที่ดีที่สุดในซีรีส์คือ Krit และแจ็ค♥️ @perthppe bebe mark😍 https://t.co/Z77u031sgg",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 65
+            },
+            {
+                "code": "en",
+                "percent": 30
+            }
+        ],
+        "link": "http://twitter.com/CarolinaPrezfi1/status/1196471973758619659",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 47
+            },
+            {
+                "code": "tha",
+                "percent": 36
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1143286280119300099",
+                "updated_time": 1574096636785,
+                "created_time": 1574096636787,
+                "ori_id": "1143286280119300099",
+                "name": "CarolinaPrezfi1",
+                "display_name": "Carolina Pérez figueroa",
+                "link": "https://twitter.com/CarolinaPrezfi1",
+                "img": "http://pbs.twimg.com/profile_images/1143286796878585856/7iOSldh9_normal.jpg",
+                "tw_statuses_count": 26,
+                "tw_friends_count": 40
+            },
+            "to": {
+                "id": "twitter_856908850959482880",
+                "updated_time": 1577083335799,
+                "created_time": 1553067868170,
+                "ori_id": "856908850959482880",
+                "name": "netflixth",
+                "display_name": "Netflix Thailand",
+                "link": "https://twitter.com/netflixth",
+                "img": "http://pbs.twimg.com/profile_images/856909714390634496/GrQzag25_normal.jpg",
+                "tw_followers_count": 378780,
+                "tw_statuses_count": 1946,
+                "tw_friends_count": 53
+            },
+            "on": {
+                "id": "twitter_1143286280119300099",
+                "updated_time": 1574096636785,
+                "created_time": 1574096636787,
+                "ori_id": "1143286280119300099",
+                "name": "CarolinaPrezfi1",
+                "display_name": "Carolina Pérez figueroa",
+                "link": "https://twitter.com/CarolinaPrezfi1",
+                "img": "http://pbs.twimg.com/profile_images/1143286796878585856/7iOSldh9_normal.jpg",
+                "tw_statuses_count": 26,
+                "tw_friends_count": 40
+            },
+            "media": [
+                {
+                    "id": "http://pbs.twimg.com/media/EJq46zzXYAAGlYx.jpg",
+                    "mime_type": "image/jpeg"
+                }
+            ],
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181155",
+        "updated_time": 1574096636580,
+        "sys_time": 1574096636580,
+        "last_action_time": 1576828663715,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1143286280119300099"
+    },
+    {
+        "id": "256_tw_398683735_1196471966502281216",
+        "mid": "tw_398683735_1196471966502281216",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @non12887: 7. ครามเดินผ่านประตูพญานาคคิดว่าน่าจะเดินทางข้ามไปโลกคู่ขนานเจอกับเพื่อนเก่า 2 คน ซึ่งโลกนี้น้ำได้ท่วมพื้นที่ราบไปหมดแล้ว เหมือนที่บทกลอนพระไชยสุริยากล่าวไว้ เหลือเพียงจุดสูงสุดแดนสยามก็คือดอยอินทนนท์ (4) #เคว้ง #TheStrandedNetflixTH https://t.co/vh458ThjLT",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 92
+            },
+            {
+                "code": "en",
+                "percent": 6
+            }
+        ],
+        "link": "http://twitter.com/kukikdora/status/1196471966502281216",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 15
+            },
+            {
+                "code": "tha",
+                "percent": 76
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_398683735",
+                "updated_time": 1577020214828,
+                "created_time": 1553310263695,
+                "ori_id": "398683735",
+                "name": "kukikdora",
+                "display_name": "ก๊วกเก๊ก",
+                "link": "https://twitter.com/kukikdora",
+                "img": "http://pbs.twimg.com/profile_images/1196908831608995841/WGjKjQur_normal.jpg",
+                "tw_followers_count": 233,
+                "tw_statuses_count": 61697,
+                "tw_friends_count": 126
+            },
+            "to": {
+                "id": "twitter_43168812",
+                "updated_time": 1577080820774,
+                "created_time": 1553110042146,
+                "ori_id": "43168812",
+                "name": "non12887",
+                "display_name": "Non_Phanu",
+                "link": "https://twitter.com/non12887",
+                "img": "http://pbs.twimg.com/profile_images/1195811565427015680/zU4ryxUU_normal.jpg",
+                "tw_followers_count": 301,
+                "tw_statuses_count": 20802,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_398683735",
+                "updated_time": 1577020214828,
+                "created_time": 1553310263695,
+                "ori_id": "398683735",
+                "name": "kukikdora",
+                "display_name": "ก๊วกเก๊ก",
+                "link": "https://twitter.com/kukikdora",
+                "img": "http://pbs.twimg.com/profile_images/1196908831608995841/WGjKjQur_normal.jpg",
+                "tw_followers_count": 233,
+                "tw_statuses_count": 61697,
+                "tw_friends_count": 126
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181155",
+        "updated_time": 1574096704991,
+        "sys_time": 1574096125986,
+        "last_action_time": 1576828663722,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd2467e57633c7e4fb61355",
+                "name": "คราม",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            },
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "398683735"
+    },
+    {
+        "id": "256_tw_82603084_1196471942255038464",
+        "mid": "tw_82603084_1196471942255038464",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @non12887: ทำไมเดาไม่ออกกันเหรอว่ามันคือการเล่าเรื่องพญานาคในแบบของ #Netflix นี่รู้ตั้งแต่เห็นด้ามมีด เห็นจอมปลวกแล้วล่ะว่ามันแนวไหน ไอ่ที่ติดเกาะ สร้างเรือนั้นส่วนประกอบไม่ใช่พ้อยหลักนะ 555 #เคว้ง #TheStrandedNetflixTH https://t.co/XkOqLPgZ2j",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 89
+            },
+            {
+                "code": "en",
+                "percent": 7
+            }
+        ],
+        "link": "http://twitter.com/cham_pagne/status/1196471942255038464",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 21
+            },
+            {
+                "code": "tha",
+                "percent": 71
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_82603084",
+                "updated_time": 1577082816161,
+                "created_time": 1555316430935,
+                "ori_id": "82603084",
+                "name": "cham_pagne",
+                "display_name": "DONCH ◡̈",
+                "link": "https://twitter.com/cham_pagne",
+                "img": "http://pbs.twimg.com/profile_images/1201521415133884417/qjPmDeIH_normal.jpg",
+                "tw_followers_count": 110,
+                "tw_statuses_count": 14498,
+                "tw_friends_count": 349
+            },
+            "to": {
+                "id": "twitter_43168812",
+                "updated_time": 1577080820774,
+                "created_time": 1553110042146,
+                "ori_id": "43168812",
+                "name": "non12887",
+                "display_name": "Non_Phanu",
+                "link": "https://twitter.com/non12887",
+                "img": "http://pbs.twimg.com/profile_images/1195811565427015680/zU4ryxUU_normal.jpg",
+                "tw_followers_count": 301,
+                "tw_statuses_count": 20802,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_82603084",
+                "updated_time": 1577082816161,
+                "created_time": 1555316430935,
+                "ori_id": "82603084",
+                "name": "cham_pagne",
+                "display_name": "DONCH ◡̈",
+                "link": "https://twitter.com/cham_pagne",
+                "img": "http://pbs.twimg.com/profile_images/1201521415133884417/qjPmDeIH_normal.jpg",
+                "tw_followers_count": 110,
+                "tw_statuses_count": 14498,
+                "tw_friends_count": 349
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181155",
+        "updated_time": 1574096145591,
+        "sys_time": 1574096145591,
+        "last_action_time": 1576828663654,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "82603084"
+    },
+    {
+        "id": "256_tw_288156928_1196471775304929280",
+        "mid": "tw_288156928_1196471775304929280",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @bigbiggyabc: นักแสดงที่ชอบมากๆในซีรีส์เรื่องเคว้งก็คือพี่นิ้งนี่แหละ ตามมานานมากๆแล้ว เป็นผญ.คนนึงในดวงใจเลยอะ  แถมแต่งลุคไหนก็รอดหมดเลยด้วย จะลุคเท่ๆ จะสวย จะเปรี้ยว จะโกนผม ก็คือรอดหมด เป็นสาวที่มีสไตล์เป็นของตัวเองมากๆคนนึง 🖤\n#TheStrandedNetflix https://t.co/h5drPlYy2B",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 91
+            },
+            {
+                "code": "en",
+                "percent": 6
+            }
+        ],
+        "link": "http://twitter.com/RoseofGyeom/status/1196471775304929280",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 18
+            },
+            {
+                "code": "tha",
+                "percent": 77
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_288156928",
+                "updated_time": 1576942681072,
+                "created_time": 1553072984149,
+                "ori_id": "288156928",
+                "gender": 2,
+                "name": "RoseofGyeom",
+                "display_name": "กุหลาบแดงของคยอม.🌹",
+                "link": "https://twitter.com/RoseofGyeom",
+                "img": "http://pbs.twimg.com/profile_images/1199138912670584832/ohdoLPKz_normal.jpg",
+                "tw_followers_count": 46,
+                "tw_statuses_count": 23890,
+                "tw_friends_count": 507
+            },
+            "to": {
+                "id": "twitter_849233214",
+                "updated_time": 1577083353762,
+                "created_time": 1553067818665,
+                "ori_id": "849233214",
+                "name": "bigbiggyabc",
+                "display_name": "บิ๊กคลุงยอดนักสืบ ╯",
+                "link": "https://twitter.com/bigbiggyabc",
+                "img": "http://pbs.twimg.com/profile_images/991845890905157633/jjCoWANG_normal.jpg",
+                "tw_followers_count": 1454595,
+                "tw_statuses_count": 86431,
+                "tw_friends_count": 697
+            },
+            "on": {
+                "id": "twitter_288156928",
+                "updated_time": 1576942681072,
+                "created_time": 1553072984149,
+                "ori_id": "288156928",
+                "gender": 2,
+                "name": "RoseofGyeom",
+                "display_name": "กุหลาบแดงของคยอม.🌹",
+                "link": "https://twitter.com/RoseofGyeom",
+                "img": "http://pbs.twimg.com/profile_images/1199138912670584832/ohdoLPKz_normal.jpg",
+                "tw_followers_count": 46,
+                "tw_statuses_count": 23890,
+                "tw_friends_count": 507
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": true,
+        "hide": false,
+        "fav": true,
+        "created_time": "201911181154",
+        "updated_time": 1574098036934,
+        "sys_time": 1574098036934,
+        "last_action_time": 1576828663721,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "288156928"
+    },
+    {
+        "id": "256_ig_B5A6MAQAFW6",
+        "mid": "ig_B5A6MAQAFW6",
+        "channel": "instagram",
+        "data_type": "instagram_status",
+        "type": 2,
+        "is_topic": true,
+        "topic": "Post",
+        "desc": "#Repost @netflixth with @make_repost\nシーズン2がちゃんと放送されますように\n\n#perthppe \n#perthtanaponsukhumpantanasan \n#netflixth \n#thestrandednetflix \n#kaoruppe ・・・\n・・・\n・・・ ・・・\nงานเปิดตัวซีรีส์ “เคว้ง” เมื่อคืนนักแสดงจัดเต็มเสื้อผ้าหน้าผมมากก ไหนขอพื้นที่เชียร์เมนตัวเองกันหน่อยสิจ๊ะ ส่วนใครรอดูเคว้ง คืนนี้เที่ยงคืนเจอกันจ้า ✨\n\n#เคว้ง #TheStrandedNetflix #Netflixth #beampapangkorn #มาร์ชจุฑาวุฒิ #marchchutavuth #แพตชญานิษฐ์ #marksiwat #หัวใจศิวัช #perthtanapon #perthmark #perthsaint #รอยยิ้มของชูครีม #เพิร์ธธนพนธ์",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 70
+            },
+            {
+                "code": "ja",
+                "percent": 5
+            },
+            {
+                "code": "tlh",
+                "percent": 2
+            }
+        ],
+        "link": "https://www.instagram.com/p/B5A6MAQAFW6/",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 41
+            },
+            {
+                "code": "tha",
+                "percent": 44
+            }
+        ],
+        "domain": "instagram.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "instagram_viviv.i",
+                "updated_time": 1574395930973,
+                "created_time": 1574395930975,
+                "ori_id": "viviv.i",
+                "name": "viviv.i",
+                "display_name": "viviv.i",
+                "link": "http://instagram.com/viviv.i",
+                "img": "https://instagram.find1-1.fna.fbcdn.net/vp/012e99394b50d42379f8074fb4608074/5E50EF11/t51.2885-19/s150x150/72781198_959221207788041_8635101855359172608_n.jpg?_nc_ht=instagram.find1-1.fna.fbcdn.net"
+            },
+            "to": {},
+            "on": {
+                "id": "instagram_2294549797",
+                "updated_time": 1574341003241,
+                "created_time": 1553245572417,
+                "ori_id": "2294549797",
+                "name": "viviv.i",
+                "link": "https://www.instagram.com/viviv.i",
+                "img": "https://scontent-sin2-2.cdninstagram.com/vp/c5c978c03b632e61712fba1658fa344e/5E50EF11/t51.2885-19/s150x150/72781198_959221207788041_8635101855359172608_n.jpg?_nc_ht=scontent-sin2-2.cdninstagram.com"
+            },
+            "media": [
+                {
+                    "id": "https://scontent-sin2-2.cdninstagram.com/v/t51.2885-15/e35/s1080x1080/76923600_124117478683138_3969150105177073114_n.jpg?_nc_ht=scontent-sin2-2.cdninstagram.com&_nc_cat=110&oh=f2d2483296f13dc086d0035973cba759&oe=5E8C101E",
+                    "mime_type": "image/jpeg"
+                }
+            ],
+            "engagement": 100,
+            "likes": 98,
+            "comments": 2,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181154",
+        "updated_time": 1574395953344,
+        "sys_time": 1574395953344,
+        "last_action_time": 1576828663693,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "2294549797"
+    },
+    {
+        "id": "256_tw_729268663518265344_1196471623068479489",
+        "mid": "tw_729268663518265344_1196471623068479489",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @OabnithiW: @netflixth ก็ไม่เคยหายไปไหน ทำไมต้อง #เคว้ง อ่ะ",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 80
+            },
+            {
+                "code": "en",
+                "percent": 19
+            }
+        ],
+        "link": "http://twitter.com/IIIIKIIK/status/1196471623068479489",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 36
+            },
+            {
+                "code": "tha",
+                "percent": 57
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_729268663518265344",
+                "updated_time": 1577066522734,
+                "created_time": 1553109550238,
+                "ori_id": "729268663518265344",
+                "name": "IIIIKIIK",
+                "display_name": "💜kookkiik💚/ 재텐젠나나",
+                "link": "https://twitter.com/IIIIKIIK",
+                "img": "http://pbs.twimg.com/profile_images/1203016249275322368/3jklumc9_normal.jpg",
+                "tw_followers_count": 395,
+                "tw_statuses_count": 47609,
+                "tw_friends_count": 1995
+            },
+            "to": {
+                "id": "twitter_377759693",
+                "updated_time": 1577082824628,
+                "created_time": 1553068348726,
+                "ori_id": "377759693",
+                "name": "OabnithiW",
+                "display_name": "Oabnithi",
+                "link": "https://twitter.com/OabnithiW",
+                "img": "http://pbs.twimg.com/profile_images/681003294475464704/YGIrZtgT_normal.jpg",
+                "tw_followers_count": 209038,
+                "tw_statuses_count": 17847,
+                "tw_friends_count": 164
+            },
+            "on": {
+                "id": "twitter_729268663518265344",
+                "updated_time": 1577066522734,
+                "created_time": 1553109550238,
+                "ori_id": "729268663518265344",
+                "name": "IIIIKIIK",
+                "display_name": "💜kookkiik💚/ 재텐젠나나",
+                "link": "https://twitter.com/IIIIKIIK",
+                "img": "http://pbs.twimg.com/profile_images/1203016249275322368/3jklumc9_normal.jpg",
+                "tw_followers_count": 395,
+                "tw_statuses_count": 47609,
+                "tw_friends_count": 1995
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181153",
+        "updated_time": 1574096044098,
+        "sys_time": 1574096044098,
+        "last_action_time": 1576828663726,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "729268663518265344"
+    },
+    {
+        "id": "256_tw_729268663518265344_1196471617544585216",
+        "mid": "tw_729268663518265344_1196471617544585216",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @netflixth: @OabnithiW ไม่ #เคว้ง แล้วหรอออ 😏",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 69
+            },
+            {
+                "code": "en",
+                "percent": 29
+            }
+        ],
+        "link": "http://twitter.com/IIIIKIIK/status/1196471617544585216",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 47
+            },
+            {
+                "code": "tha",
+                "percent": 40
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_729268663518265344",
+                "updated_time": 1577066522734,
+                "created_time": 1553109550238,
+                "ori_id": "729268663518265344",
+                "name": "IIIIKIIK",
+                "display_name": "💜kookkiik💚/ 재텐젠나나",
+                "link": "https://twitter.com/IIIIKIIK",
+                "img": "http://pbs.twimg.com/profile_images/1203016249275322368/3jklumc9_normal.jpg",
+                "tw_followers_count": 395,
+                "tw_statuses_count": 47609,
+                "tw_friends_count": 1995
+            },
+            "to": {
+                "id": "twitter_856908850959482880",
+                "updated_time": 1577083335799,
+                "created_time": 1553067868170,
+                "ori_id": "856908850959482880",
+                "name": "netflixth",
+                "display_name": "Netflix Thailand",
+                "link": "https://twitter.com/netflixth",
+                "img": "http://pbs.twimg.com/profile_images/856909714390634496/GrQzag25_normal.jpg",
+                "tw_followers_count": 378780,
+                "tw_statuses_count": 1946,
+                "tw_friends_count": 53
+            },
+            "on": {
+                "id": "twitter_729268663518265344",
+                "updated_time": 1577066522734,
+                "created_time": 1553109550238,
+                "ori_id": "729268663518265344",
+                "name": "IIIIKIIK",
+                "display_name": "💜kookkiik💚/ 재텐젠나나",
+                "link": "https://twitter.com/IIIIKIIK",
+                "img": "http://pbs.twimg.com/profile_images/1203016249275322368/3jklumc9_normal.jpg",
+                "tw_followers_count": 395,
+                "tw_statuses_count": 47609,
+                "tw_friends_count": 1995
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181153",
+        "updated_time": 1574096042821,
+        "sys_time": 1574096042821,
+        "last_action_time": 1576828663725,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "729268663518265344"
+    },
+    {
+        "id": "256_fb_809382136182446_812359495884710",
+        "mid": "fb_809382136182446_812359495884710",
+        "channel": "facebook",
+        "data_type": "facebook_tl",
+        "type": 2,
+        "is_topic": false,
+        "topic": "Commented",
+        "desc": "Game Akharadet Kongsaengsri แค่ความคิดเห็นส่วนตัวครับ\n\n1. เหตุการณ์ซึนามิพัดเข้าเกาะ  จนทำให้เหลือผู้รอดชีวิตในเกาะแค่ 30 กว่าคนนั่นมาจากเหตุภัยพิบัติน้ำท่วมประเทศไทย\n2. เพราะถ้าหากผู้รอดชีวิตยังติดอยู่ที่เกาะพ่อแม่ของพวกเขาคงจะส่งคนมาช่วยไปนานแล้ว \n3. ที่ครามหายใจในน้ำได้ เพราะมีเชื้อสายพญานาค พ่อ ( สน ) \n4. ครูที่เห็นอาจจะเป็นพญานาคที่แปลงกายมาบอกให้ทุกคนไม่ให้ออกจากเกาะ เพราะไม่สามารถออกไปจากเกาะได้จริง เพราะเหตุน้ำท่วมประเทศไทย จึงได้ยิงลูกไฟทำลายเรือ\n5. ทางเดียวที่ออกจากเกาะได้คือประตูมิติ\n6. ส่วนเพื่อนที่ชื่อจูดี้หรืออะไรนี่แหละที่ตายไปแล้วกลับยังมีชีวิตอยู่อีกฝากหนึ่งยังสรุปไม่ได้ คาดว่าอาจจะเป็นแฝด หรืออาจจะเป็นอย่างอื่นก็ได้ครับ",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 98
+            }
+        ],
+        "link": "http://www.facebook.com/809382136182446_812348872552439?comment_id=812359495884710",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 4
+            },
+            {
+                "code": "tha",
+                "percent": 92
+            }
+        ],
+        "domain": "facebook.com",
+        "info": {
+            "default_country": "th",
+            "from": {},
+            "to": {},
+            "on": {
+                "id": "facebook_272824953171503",
+                "updated_time": 1577075538812,
+                "created_time": 1553066544757,
+                "ori_id": "272824953171503",
+                "gender": 1,
+                "name": "272824953171503",
+                "display_name": "Netflix",
+                "link": "https://www.facebook.com/272824953171503",
+                "img": "https://graph.facebook.com/272824953171503/picture",
+                "fb_talk_about": 89969,
+                "fb_fan_count": 61870653
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181153",
+        "updated_time": 1574097998027,
+        "sys_time": 1574097998027,
+        "last_action_time": 1576828663644,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd2467e57633c7e4fb61355",
+                "name": "คราม",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            },
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "272824953171503"
+    },
+    {
+        "id": "256_tw_1185196762861993984_1196471288224604160",
+        "mid": "tw_1185196762861993984_1196471288224604160",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @Pound_tv5: 2หนุ่มมาส่งเข้านอน อย่าลืมติดตาม เคว้ง ด้วยนะครับ ทาง #Netflix #เคว้ง @perthppe #รอยยิ้มของชูครีม  @weTEMPTyou https://t.co/osSisn3lfM",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 76
+            },
+            {
+                "code": "en",
+                "percent": 22
+            }
+        ],
+        "link": "http://twitter.com/_bammmm_/status/1196471288224604160",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 38
+            },
+            {
+                "code": "tha",
+                "percent": 51
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1185196762861993984",
+                "updated_time": 1577077545123,
+                "created_time": 1571408272468,
+                "ori_id": "1185196762861993984",
+                "name": "OnlyYou_PPE",
+                "display_name": "—ℙᗴʳт𝕙 —",
+                "link": "https://twitter.com/OnlyYou_PPE",
+                "img": "http://pbs.twimg.com/profile_images/1200373978914680832/4a3DtDbY_normal.jpg",
+                "tw_followers_count": 37,
+                "tw_statuses_count": 5180,
+                "tw_friends_count": 277
+            },
+            "to": {
+                "id": "twitter_515447630",
+                "updated_time": 1576983771770,
+                "created_time": 1555741406490,
+                "ori_id": "515447630",
+                "name": "Pound_tv5",
+                "display_name": "pound",
+                "link": "https://twitter.com/Pound_tv5",
+                "img": "http://pbs.twimg.com/profile_images/927065081745088512/VE-FdJmS_normal.jpg",
+                "tw_followers_count": 165,
+                "tw_statuses_count": 700,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_1185196762861993984",
+                "updated_time": 1577077545123,
+                "created_time": 1571408272468,
+                "ori_id": "1185196762861993984",
+                "name": "OnlyYou_PPE",
+                "display_name": "—ℙᗴʳт𝕙 —",
+                "link": "https://twitter.com/OnlyYou_PPE",
+                "img": "http://pbs.twimg.com/profile_images/1200373978914680832/4a3DtDbY_normal.jpg",
+                "tw_followers_count": 37,
+                "tw_statuses_count": 5180,
+                "tw_friends_count": 277
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181152",
+        "updated_time": 1574095964279,
+        "sys_time": 1574095964279,
+        "last_action_time": 1576828663661,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1185196762861993984"
+    },
+    {
+        "id": "256_tw_502453834_1196471197615083521",
+        "mid": "tw_502453834_1196471197615083521",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @Pound_tv5: 2หนุ่มมาส่งเข้านอน อย่าลืมติดตาม เคว้ง ด้วยนะครับ ทาง #Netflix #เคว้ง @perthppe #รอยยิ้มของชูครีม  @weTEMPTyou https://t.co/osSisn3lfM",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 76
+            },
+            {
+                "code": "en",
+                "percent": 22
+            }
+        ],
+        "link": "http://twitter.com/Pooky150822/status/1196471197615083521",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 38
+            },
+            {
+                "code": "tha",
+                "percent": 51
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_502453834",
+                "updated_time": 1577077418482,
+                "created_time": 1553072467755,
+                "ori_id": "502453834",
+                "name": "loveperthppe22",
+                "display_name": "Perth_Perth🐯🖤",
+                "link": "https://twitter.com/loveperthppe22",
+                "img": "http://pbs.twimg.com/profile_images/1206929041246175234/017whpc0_normal.jpg",
+                "tw_followers_count": 435,
+                "tw_statuses_count": 49022,
+                "tw_friends_count": 1174
+            },
+            "to": {
+                "id": "twitter_515447630",
+                "updated_time": 1576983771770,
+                "created_time": 1555741406490,
+                "ori_id": "515447630",
+                "name": "Pound_tv5",
+                "display_name": "pound",
+                "link": "https://twitter.com/Pound_tv5",
+                "img": "http://pbs.twimg.com/profile_images/927065081745088512/VE-FdJmS_normal.jpg",
+                "tw_followers_count": 165,
+                "tw_statuses_count": 700,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_502453834",
+                "updated_time": 1577077418482,
+                "created_time": 1553072467755,
+                "ori_id": "502453834",
+                "name": "loveperthppe22",
+                "display_name": "Perth_Perth🐯🖤",
+                "link": "https://twitter.com/loveperthppe22",
+                "img": "http://pbs.twimg.com/profile_images/1206929041246175234/017whpc0_normal.jpg",
+                "tw_followers_count": 435,
+                "tw_statuses_count": 49022,
+                "tw_friends_count": 1174
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181152",
+        "updated_time": 1574095942675,
+        "sys_time": 1574095942675,
+        "last_action_time": 1576828663651,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "502453834"
+    },
+    {
+        "id": "256_tw_82603084_1196470940625825803",
+        "mid": "tw_82603084_1196470940625825803",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @non12887: 7. ครามเดินผ่านประตูพญานาคคิดว่าน่าจะเดินทางข้ามไปโลกคู่ขนานเจอกับเพื่อนเก่า 2 คน ซึ่งโลกนี้น้ำได้ท่วมพื้นที่ราบไปหมดแล้ว เหมือนที่บทกลอนพระไชยสุริยากล่าวไว้ เหลือเพียงจุดสูงสุดแดนสยามก็คือดอยอินทนนท์ (4) #เคว้ง #TheStrandedNetflixTH https://t.co/vh458ThjLT",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 92
+            },
+            {
+                "code": "en",
+                "percent": 6
+            }
+        ],
+        "link": "http://twitter.com/cham_pagne/status/1196470940625825803",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 15
+            },
+            {
+                "code": "tha",
+                "percent": 76
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_82603084",
+                "updated_time": 1577082816161,
+                "created_time": 1555316430935,
+                "ori_id": "82603084",
+                "name": "cham_pagne",
+                "display_name": "DONCH ◡̈",
+                "link": "https://twitter.com/cham_pagne",
+                "img": "http://pbs.twimg.com/profile_images/1201521415133884417/qjPmDeIH_normal.jpg",
+                "tw_followers_count": 110,
+                "tw_statuses_count": 14498,
+                "tw_friends_count": 349
+            },
+            "to": {
+                "id": "twitter_43168812",
+                "updated_time": 1577080820774,
+                "created_time": 1553110042146,
+                "ori_id": "43168812",
+                "name": "non12887",
+                "display_name": "Non_Phanu",
+                "link": "https://twitter.com/non12887",
+                "img": "http://pbs.twimg.com/profile_images/1195811565427015680/zU4ryxUU_normal.jpg",
+                "tw_followers_count": 301,
+                "tw_statuses_count": 20802,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_82603084",
+                "updated_time": 1577082816161,
+                "created_time": 1555316430935,
+                "ori_id": "82603084",
+                "name": "cham_pagne",
+                "display_name": "DONCH ◡̈",
+                "link": "https://twitter.com/cham_pagne",
+                "img": "http://pbs.twimg.com/profile_images/1201521415133884417/qjPmDeIH_normal.jpg",
+                "tw_followers_count": 110,
+                "tw_statuses_count": 14498,
+                "tw_friends_count": 349
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181151",
+        "updated_time": 1574096704295,
+        "sys_time": 1574095881400,
+        "last_action_time": 1576828663653,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd2467e57633c7e4fb61355",
+                "name": "คราม",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            },
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "82603084"
+    },
+    {
+        "id": "256_ig_B491uOinVpx_1574095852",
+        "mid": "ig_B491uOinVpx_1574095852",
+        "channel": "instagram",
+        "data_type": "instagram_status",
+        "type": 1,
+        "is_topic": false,
+        "topic": "Comment",
+        "desc": "Can’t wait for season 2",
+        "langs": [
+            {
+                "code": "en",
+                "percent": 95
+            }
+        ],
+        "link": "https://www.instagram.com/p/B491uOinVpx/",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 89
+            }
+        ],
+        "domain": "instagram.com",
+        "info": {
+            "default_country": "none",
+            "from": {
+                "id": "instagram_4004639487",
+                "updated_time": 1574569578114,
+                "created_time": 1574340733454,
+                "ori_id": "4004639487",
+                "name": "stephen_sir_lam",
+                "link": "https://www.instagram.com/stephen_sir_lam",
+                "img": "https://scontent-sin2-2.cdninstagram.com/vp/2dbf2a6be9da02b1c24a85689c4f87ba/5E7C7994/t51.2885-19/s150x150/62005484_2553526724667220_4917119735759372288_n.jpg?_nc_ht=scontent-sin2-2.cdninstagram.com"
+            },
+            "to": {},
+            "on": {
+                "id": "instagram_4004639487",
+                "updated_time": 1574569578114,
+                "created_time": 1574340733454,
+                "ori_id": "4004639487",
+                "name": "stephen_sir_lam",
+                "link": "https://www.instagram.com/stephen_sir_lam",
+                "img": "https://scontent-sin2-2.cdninstagram.com/vp/2dbf2a6be9da02b1c24a85689c4f87ba/5E7C7994/t51.2885-19/s150x150/62005484_2553526724667220_4917119735759372288_n.jpg?_nc_ht=scontent-sin2-2.cdninstagram.com"
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181150",
+        "updated_time": 1574340733327,
+        "sys_time": 1574340733327,
+        "last_action_time": 1576828663691,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "4004639487"
+    },
+    {
+        "id": "256_tw_1146023765123317761_1196470492833574912",
+        "mid": "tw_1146023765123317761_1196470492833574912",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @_kasy_: ถ้าตัดพาร์ทเหนือธรรมชาติออกไป #เคว้ง สะท้อนสังคมได้ดี โดยเฉพาะตัวละครอนันต์ เป็นตัวที่สมเหตุสมผลมากตัวนึง ชอบการปูปมในใจ แล้วค่อยๆ ผูกเรื่องไล่ระดับให้เห็นพัฒนาการของตัวละคร เหมือนเตือนสติคนดูว่า ณ จุดนึงเราอาจจะพัฒนาตัวเองไปเป็นอนันต์อย่างไม่รู้ตัวก็ได้ #TheStrandedNetflix https://t.co/f1TaQa7vrj",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 93
+            },
+            {
+                "code": "en",
+                "percent": 6
+            }
+        ],
+        "link": "http://twitter.com/Inspiri15389432/status/1196470492833574912",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 14
+            },
+            {
+                "code": "tha",
+                "percent": 82
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1146023765123317761",
+                "updated_time": 1576812129572,
+                "created_time": 1562745940196,
+                "ori_id": "1146023765123317761",
+                "gender": 2,
+                "name": "Inspiri15389432",
+                "display_name": "Inspirit",
+                "link": "https://twitter.com/Inspiri15389432",
+                "img": "http://pbs.twimg.com/profile_images/1189302876708802560/b4k4tOZd_normal.jpg",
+                "tw_statuses_count": 320,
+                "tw_friends_count": 22
+            },
+            "to": {
+                "id": "twitter_1126527453256486912",
+                "updated_time": 1576522049970,
+                "created_time": 1569670038997,
+                "ori_id": "1126527453256486912",
+                "name": "_kasy_",
+                "display_name": "kasy",
+                "link": "https://twitter.com/_kasy_",
+                "img": "http://pbs.twimg.com/profile_images/1178379545562374144/TM-a00hV_normal.jpg",
+                "tw_followers_count": 20,
+                "tw_statuses_count": 991,
+                "tw_friends_count": 46
+            },
+            "on": {
+                "id": "twitter_1146023765123317761",
+                "updated_time": 1576812129572,
+                "created_time": 1562745940196,
+                "ori_id": "1146023765123317761",
+                "gender": 2,
+                "name": "Inspiri15389432",
+                "display_name": "Inspirit",
+                "link": "https://twitter.com/Inspiri15389432",
+                "img": "http://pbs.twimg.com/profile_images/1189302876708802560/b4k4tOZd_normal.jpg",
+                "tw_statuses_count": 320,
+                "tw_friends_count": 22
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181149",
+        "updated_time": 1574095804909,
+        "sys_time": 1574095804909,
+        "last_action_time": 1576828663716,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1146023765123317761"
+    },
+    {
+        "id": "256_tw_1152216419955687429_1196470470691868672",
+        "mid": "tw_1152216419955687429_1196470470691868672",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @Pound_tv5: 2หนุ่มมาส่งเข้านอน อย่าลืมติดตาม เคว้ง ด้วยนะครับ ทาง #Netflix #เคว้ง @perthppe #รอยยิ้มของชูครีม  @weTEMPTyou https://t.co/osSisn3lfM",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 76
+            },
+            {
+                "code": "en",
+                "percent": 22
+            }
+        ],
+        "link": "http://twitter.com/kik71348220/status/1196470470691868672",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 38
+            },
+            {
+                "code": "tha",
+                "percent": 51
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1152216419955687429",
+                "updated_time": 1576350783673,
+                "created_time": 1563545136475,
+                "ori_id": "1152216419955687429",
+                "name": "kik71348220",
+                "display_name": "🌠🌠k..i..k🌠🌠",
+                "link": "https://twitter.com/kik71348220",
+                "img": "http://pbs.twimg.com/profile_images/1195208541599981569/keg6cn5e_normal.jpg",
+                "tw_followers_count": 13,
+                "tw_statuses_count": 4749,
+                "tw_friends_count": 140
+            },
+            "to": {
+                "id": "twitter_515447630",
+                "updated_time": 1576983771770,
+                "created_time": 1555741406490,
+                "ori_id": "515447630",
+                "name": "Pound_tv5",
+                "display_name": "pound",
+                "link": "https://twitter.com/Pound_tv5",
+                "img": "http://pbs.twimg.com/profile_images/927065081745088512/VE-FdJmS_normal.jpg",
+                "tw_followers_count": 165,
+                "tw_statuses_count": 700,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_1152216419955687429",
+                "updated_time": 1576350783673,
+                "created_time": 1563545136475,
+                "ori_id": "1152216419955687429",
+                "name": "kik71348220",
+                "display_name": "🌠🌠k..i..k🌠🌠",
+                "link": "https://twitter.com/kik71348220",
+                "img": "http://pbs.twimg.com/profile_images/1195208541599981569/keg6cn5e_normal.jpg",
+                "tw_followers_count": 13,
+                "tw_statuses_count": 4749,
+                "tw_friends_count": 140
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181149",
+        "updated_time": 1574095769739,
+        "sys_time": 1574095769739,
+        "last_action_time": 1576828663717,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1152216419955687429"
+    },
+    {
+        "id": "256_tw_264119501_1196470108400451584",
+        "mid": "tw_264119501_1196470108400451584",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @ollq_pllo: #เคว้ง เป็นซีรี่ย์คุณภาพ ที่ได้ดาราระดับท็อปของม็อบ กปปส มาร่วมแสดง กับบทบาทที่เล่นใหญ่ทั้งในจอและนอกจอ  น่าติดตาม #NetflixTH https://t.co/uQ3rrdqgWt",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 87
+            },
+            {
+                "code": "en",
+                "percent": 12
+            }
+        ],
+        "link": "http://twitter.com/99diealone/status/1196470108400451584",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 24
+            },
+            {
+                "code": "tha",
+                "percent": 69
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_264119501",
+                "updated_time": 1577080832923,
+                "created_time": 1553333859644,
+                "ori_id": "264119501",
+                "name": "99diealone",
+                "display_name": "beb",
+                "link": "https://twitter.com/99diealone",
+                "img": "http://pbs.twimg.com/profile_images/1208119160045109248/qkh5Vx8B_normal.jpg",
+                "tw_followers_count": 556,
+                "tw_statuses_count": 495734,
+                "tw_friends_count": 614
+            },
+            "to": {
+                "id": "twitter_329593979",
+                "updated_time": 1577066444606,
+                "created_time": 1553068178144,
+                "ori_id": "329593979",
+                "name": "ollq_pllo",
+                "display_name": "Lee",
+                "link": "https://twitter.com/ollq_pllo",
+                "img": "http://pbs.twimg.com/profile_images/911809010499706880/PvBGQQTc_normal.jpg",
+                "tw_followers_count": 5011,
+                "tw_statuses_count": 19397,
+                "tw_friends_count": 243
+            },
+            "on": {
+                "id": "twitter_264119501",
+                "updated_time": 1577080832923,
+                "created_time": 1553333859644,
+                "ori_id": "264119501",
+                "name": "99diealone",
+                "display_name": "beb",
+                "link": "https://twitter.com/99diealone",
+                "img": "http://pbs.twimg.com/profile_images/1208119160045109248/qkh5Vx8B_normal.jpg",
+                "tw_followers_count": 556,
+                "tw_statuses_count": 495734,
+                "tw_friends_count": 614
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181147",
+        "updated_time": 1574095823354,
+        "sys_time": 1574095823354,
+        "last_action_time": 1576828663698,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "264119501"
+    },
+    {
+        "id": "256_tw_819206269504393216_1196469979371098121",
+        "mid": "tw_819206269504393216_1196469979371098121",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @netflixth: ดู #เคว้ง จบแล้ว เลือกชิปคู่ไหนดีอ่ะพวกเรา ? 🤔\n\n#TheStrandedNetflix",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 77
+            }
+        ],
+        "link": "http://twitter.com/Penelope_sweet5/status/1196469979371098121",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 38
+            },
+            {
+                "code": "tha",
+                "percent": 50
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_819206269504393216",
+                "updated_time": 1577080195255,
+                "created_time": 1553068680607,
+                "ori_id": "819206269504393216",
+                "name": "Penelope_sweet5",
+                "display_name": "Pene'lope Sweet",
+                "link": "https://twitter.com/Penelope_sweet5",
+                "img": "http://pbs.twimg.com/profile_images/1131121630900449280/UNXIn7dX_normal.jpg",
+                "tw_followers_count": 471,
+                "tw_statuses_count": 40405,
+                "tw_friends_count": 1359
+            },
+            "to": {
+                "id": "twitter_856908850959482880",
+                "updated_time": 1577083335799,
+                "created_time": 1553067868170,
+                "ori_id": "856908850959482880",
+                "name": "netflixth",
+                "display_name": "Netflix Thailand",
+                "link": "https://twitter.com/netflixth",
+                "img": "http://pbs.twimg.com/profile_images/856909714390634496/GrQzag25_normal.jpg",
+                "tw_followers_count": 378780,
+                "tw_statuses_count": 1946,
+                "tw_friends_count": 53
+            },
+            "on": {
+                "id": "twitter_819206269504393216",
+                "updated_time": 1577080195255,
+                "created_time": 1553068680607,
+                "ori_id": "819206269504393216",
+                "name": "Penelope_sweet5",
+                "display_name": "Pene'lope Sweet",
+                "link": "https://twitter.com/Penelope_sweet5",
+                "img": "http://pbs.twimg.com/profile_images/1131121630900449280/UNXIn7dX_normal.jpg",
+                "tw_followers_count": 471,
+                "tw_statuses_count": 40405,
+                "tw_friends_count": 1359
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181147",
+        "updated_time": 1574095652246,
+        "sys_time": 1574095652246,
+        "last_action_time": 1576828663669,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "819206269504393216"
+    },
+    {
+        "id": "256_tw_1097195414804082688_1196469964225466368",
+        "mid": "tw_1097195414804082688_1196469964225466368",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @OabnithiW: @netflixth ก็ไม่เคยหายไปไหน ทำไมต้อง #เคว้ง อ่ะ",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 80
+            },
+            {
+                "code": "en",
+                "percent": 19
+            }
+        ],
+        "link": "http://twitter.com/xxsjmjk/status/1196469964225466368",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 36
+            },
+            {
+                "code": "tha",
+                "percent": 57
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1097195414804082688",
+                "updated_time": 1577080817878,
+                "created_time": 1553709162940,
+                "ori_id": "1097195414804082688",
+                "name": "xxsjmjk",
+                "display_name": "XXSM 🖤 like a rocketeer 💫",
+                "link": "https://twitter.com/xxsjmjk",
+                "img": "http://pbs.twimg.com/profile_images/1206552365840523264/UY_dd_kw_normal.jpg",
+                "tw_followers_count": 162,
+                "tw_statuses_count": 29345,
+                "tw_friends_count": 122
+            },
+            "to": {
+                "id": "twitter_377759693",
+                "updated_time": 1577082824628,
+                "created_time": 1553068348726,
+                "ori_id": "377759693",
+                "name": "OabnithiW",
+                "display_name": "Oabnithi",
+                "link": "https://twitter.com/OabnithiW",
+                "img": "http://pbs.twimg.com/profile_images/681003294475464704/YGIrZtgT_normal.jpg",
+                "tw_followers_count": 209038,
+                "tw_statuses_count": 17847,
+                "tw_friends_count": 164
+            },
+            "on": {
+                "id": "twitter_1097195414804082688",
+                "updated_time": 1577080817878,
+                "created_time": 1553709162940,
+                "ori_id": "1097195414804082688",
+                "name": "xxsjmjk",
+                "display_name": "XXSM 🖤 like a rocketeer 💫",
+                "link": "https://twitter.com/xxsjmjk",
+                "img": "http://pbs.twimg.com/profile_images/1206552365840523264/UY_dd_kw_normal.jpg",
+                "tw_followers_count": 162,
+                "tw_statuses_count": 29345,
+                "tw_friends_count": 122
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181147",
+        "updated_time": 1574095648833,
+        "sys_time": 1574095648833,
+        "last_action_time": 1576828663713,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1097195414804082688"
+    },
+    {
+        "id": "256_tw_1104768570104246272_1196469885938782209",
+        "mid": "tw_1104768570104246272_1196469885938782209",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @non12887: 7. ครามเดินผ่านประตูพญานาคคิดว่าน่าจะเดินทางข้ามไปโลกคู่ขนานเจอกับเพื่อนเก่า 2 คน ซึ่งโลกนี้น้ำได้ท่วมพื้นที่ราบไปหมดแล้ว เหมือนที่บทกลอนพระไชยสุริยากล่าวไว้ เหลือเพียงจุดสูงสุดแดนสยามก็คือดอยอินทนนท์ (4) #เคว้ง #TheStrandedNetflixTH https://t.co/vh458ThjLT",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 92
+            },
+            {
+                "code": "en",
+                "percent": 6
+            }
+        ],
+        "link": "http://twitter.com/Dreamcommetrue1/status/1196469885938782209",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 15
+            },
+            {
+                "code": "tha",
+                "percent": 76
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1104768570104246272",
+                "updated_time": 1576918086396,
+                "created_time": 1554110815011,
+                "ori_id": "1104768570104246272",
+                "gender": 1,
+                "name": "Dreamcommetrue1",
+                "display_name": "Dreamcommetrue",
+                "link": "https://twitter.com/Dreamcommetrue1",
+                "img": "http://pbs.twimg.com/profile_images/1175805569229148161/D5rJFYqN_normal.jpg",
+                "tw_followers_count": 1,
+                "tw_statuses_count": 733,
+                "tw_friends_count": 69
+            },
+            "to": {
+                "id": "twitter_43168812",
+                "updated_time": 1577080820774,
+                "created_time": 1553110042146,
+                "ori_id": "43168812",
+                "name": "non12887",
+                "display_name": "Non_Phanu",
+                "link": "https://twitter.com/non12887",
+                "img": "http://pbs.twimg.com/profile_images/1195811565427015680/zU4ryxUU_normal.jpg",
+                "tw_followers_count": 301,
+                "tw_statuses_count": 20802,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_1104768570104246272",
+                "updated_time": 1576918086396,
+                "created_time": 1554110815011,
+                "ori_id": "1104768570104246272",
+                "gender": 1,
+                "name": "Dreamcommetrue1",
+                "display_name": "Dreamcommetrue",
+                "link": "https://twitter.com/Dreamcommetrue1",
+                "img": "http://pbs.twimg.com/profile_images/1175805569229148161/D5rJFYqN_normal.jpg",
+                "tw_followers_count": 1,
+                "tw_statuses_count": 733,
+                "tw_friends_count": 69
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181147",
+        "updated_time": 1574095653966,
+        "sys_time": 1574095629944,
+        "last_action_time": 1576828663714,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd2467e57633c7e4fb61355",
+                "name": "คราม",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            },
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1104768570104246272"
+    },
+    {
+        "id": "256_fb_107702679285494_2481311388591266",
+        "mid": "fb_107702679285494_2481311388591266",
+        "channel": "facebook",
+        "data_type": "facebook_tl",
+        "type": 2,
+        "is_topic": true,
+        "topic": "Shared",
+        "desc": "หลังจากมีการเปิดตัวกันไปเมื่อหลายวันที่สยามพารากอน ก่อนจะเริ่มออกอากาศผ่านระบบสตรีมมิ่งของ #Netflix เมื่อวันศุกร์ที่ 15 พฤศจิกายน 2562 ที่ผ่านมา ตอนนี้ #เคว้ง ( #TheStranded) กลายเป็นซีรีส์ของไทยที่ได้รับการพูดถึงกันมากในโลกโซเชียลเท่าที่ผมได้สัมผัสอยู่\n.\nนี่คือซีรีส์ของคนไทยเรื่องแรกที่เป็น Netflix Original Series\n.\nมาแบ่งปันกันมั้ยครับ ว่าคุณชอบไม่ชอบอะไรในซีรีส์เรื่องนี้บ้าง ?? / patsonic.com / อาจกลายเป็นกรณีศึกษากันไปสำหรับซีรีส์ไทยเรื่องแรกที่เป็น Netflix Original อย่าง เคว้ง หรือ The Stranded ผลงานการกำกับของ โส....",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 92
+            }
+        ],
+        "link": "https://www.facebook.com/107702679285494/posts/2481311388591266/",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 15
+            },
+            {
+                "code": "tha",
+                "percent": 80
+            }
+        ],
+        "domain": "facebook.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "facebook_107702679285494",
+                "updated_time": 1576920138551,
+                "created_time": 1553106308030,
+                "ori_id": "107702679285494",
+                "gender": 1,
+                "name": "107702679285494",
+                "display_name": "PatSonic จิปาถะ บันเทิง บล็อก",
+                "link": "https://www.facebook.com/107702679285494",
+                "img": "https://graph.facebook.com/107702679285494/picture",
+                "fb_talk_about": 61,
+                "fb_fan_count": 6105
+            },
+            "to": {
+                "id": "facebook_438549686220040",
+                "updated_time": 1577083281983,
+                "created_time": 1571915888327,
+                "ori_id": "438549686220040",
+                "name": "438549686220040",
+                "display_name": "#Netflix",
+                "link": "https://www.facebook.com/438549686220040"
+            },
+            "on": {
+                "id": "facebook_107702679285494",
+                "updated_time": 1576920138551,
+                "created_time": 1553106308030,
+                "ori_id": "107702679285494",
+                "gender": 1,
+                "name": "107702679285494",
+                "display_name": "PatSonic จิปาถะ บันเทิง บล็อก",
+                "link": "https://www.facebook.com/107702679285494",
+                "img": "https://graph.facebook.com/107702679285494/picture",
+                "fb_talk_about": 61,
+                "fb_fan_count": 6105
+            },
+            "media": [
+                {
+                    "id": "https://external.xx.fbcdn.net/safe_image.php?d=AQBohgBhqT7-WssV&url=https%3A%2F%2Fi2.wp.com%2Fwww.patsonic.com%2Fwp-content%2Fuploads%2F2019%2F11%2Fthe-stranded-netflix-featured.jpg%3Ffit%3D1200%252C676%26ssl%3D1&_nc_hash=AQAcNQ9HDoC0K3Rn",
+                    "mime_type": "application/octet-stream"
+                }
+            ],
+            "engagement": 5,
+            "likes": 3,
+            "comments": 1,
+            "shares": 1,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181146",
+        "updated_time": 1574606133953,
+        "sys_time": 1574174184187,
+        "last_action_time": 1576828663689,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "107702679285494"
+    },
+    {
+        "id": "256_tw_1101594932052078592_1196469844578668550",
+        "mid": "tw_1101594932052078592_1196469844578668550",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @Pound_tv5: 2หนุ่มมาส่งเข้านอน อย่าลืมติดตาม เคว้ง ด้วยนะครับ ทาง #Netflix #เคว้ง @perthppe #รอยยิ้มของชูครีม  @weTEMPTyou https://t.co/osSisn3lfM",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 76
+            },
+            {
+                "code": "en",
+                "percent": 22
+            }
+        ],
+        "link": "http://twitter.com/P_oxzygen/status/1196469844578668550",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 38
+            },
+            {
+                "code": "tha",
+                "percent": 51
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1101594932052078592",
+                "updated_time": 1577083323852,
+                "created_time": 1553342611992,
+                "ori_id": "1101594932052078592",
+                "name": "P_oxzygen",
+                "display_name": "♡ • Thisisme • ♡",
+                "link": "https://twitter.com/P_oxzygen",
+                "img": "http://pbs.twimg.com/profile_images/1208652884197269505/0GpMpGsI_normal.jpg",
+                "tw_followers_count": 76,
+                "tw_statuses_count": 86432,
+                "tw_friends_count": 111
+            },
+            "to": {
+                "id": "twitter_515447630",
+                "updated_time": 1576983771770,
+                "created_time": 1555741406490,
+                "ori_id": "515447630",
+                "name": "Pound_tv5",
+                "display_name": "pound",
+                "link": "https://twitter.com/Pound_tv5",
+                "img": "http://pbs.twimg.com/profile_images/927065081745088512/VE-FdJmS_normal.jpg",
+                "tw_followers_count": 165,
+                "tw_statuses_count": 700,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_1101594932052078592",
+                "updated_time": 1577083323852,
+                "created_time": 1553342611992,
+                "ori_id": "1101594932052078592",
+                "name": "P_oxzygen",
+                "display_name": "♡ • Thisisme • ♡",
+                "link": "https://twitter.com/P_oxzygen",
+                "img": "http://pbs.twimg.com/profile_images/1208652884197269505/0GpMpGsI_normal.jpg",
+                "tw_followers_count": 76,
+                "tw_statuses_count": 86432,
+                "tw_friends_count": 111
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181146",
+        "updated_time": 1574095620206,
+        "sys_time": 1574095620206,
+        "last_action_time": 1576828663713,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1101594932052078592"
+    },
+    {
+        "id": "256_tw_1195309361150586880_1196469837859393536",
+        "mid": "tw_1195309361150586880_1196469837859393536",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @gin_chintasuras: ไหนใครดูถึงเช้าบ้าง 😂😂😂 #เคว้ง #TheStrandedNetflix #NetflixTH #เคว้งเป็นเพื่อนกฤษ",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 72
+            }
+        ],
+        "link": "http://twitter.com/WcrpYam/status/1196469837859393536",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 44
+            },
+            {
+                "code": "tha",
+                "percent": 43
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1195309361150586880",
+                "updated_time": 1577070736808,
+                "created_time": 1574050272572,
+                "ori_id": "1195309361150586880",
+                "name": "WcrpYam",
+                "display_name": "yam___wcrp",
+                "link": "https://twitter.com/WcrpYam",
+                "img": "http://pbs.twimg.com/profile_images/1195309712985604096/Rq82LrF5_normal.jpg",
+                "tw_statuses_count": 300,
+                "tw_friends_count": 17
+            },
+            "to": {
+                "id": "twitter_57920587",
+                "updated_time": 1576945526191,
+                "created_time": 1553071578315,
+                "ori_id": "57920587",
+                "name": "gin_chintasuras",
+                "display_name": "Gin",
+                "link": "https://twitter.com/gin_chintasuras",
+                "img": "http://pbs.twimg.com/profile_images/1189880312668532736/3NYezOlR_normal.jpg",
+                "tw_followers_count": 27825,
+                "tw_statuses_count": 14228,
+                "tw_friends_count": 125
+            },
+            "on": {
+                "id": "twitter_1195309361150586880",
+                "updated_time": 1577070736808,
+                "created_time": 1574050272572,
+                "ori_id": "1195309361150586880",
+                "name": "WcrpYam",
+                "display_name": "yam___wcrp",
+                "link": "https://twitter.com/WcrpYam",
+                "img": "http://pbs.twimg.com/profile_images/1195309712985604096/Rq82LrF5_normal.jpg",
+                "tw_statuses_count": 300,
+                "tw_friends_count": 17
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181146",
+        "updated_time": 1574095622198,
+        "sys_time": 1574095622198,
+        "last_action_time": 1576828663662,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1195309361150586880"
+    },
+    {
+        "id": "256_tw_378666600_1196469822055317504",
+        "mid": "tw_378666600_1196469822055317504",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @MarkCity0330: ใครตกหลุมรักน้องแจ็คจาก Netflix Original Series เรื่องเคว้ง ไปฟอลโล่วน้องกันได้นะค้าบบบ IG / Twitter ตามด้านล่างเลยค้าบ\n\nName : Mark Siwat Jumlongkul\nIG : @/marksiwat\nTwitter : @Mmarksiwat \n\nสำหรับใครอยากเข้า Line Square บ้านน้องมาร์ค สามารถติดต่อ @WITHMARKz  นะค้บ\n\n#หัวใจศิวัช https://t.co/YCYJJRvumt",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 72
+            },
+            {
+                "code": "sco",
+                "percent": 2
+            }
+        ],
+        "link": "http://twitter.com/Notez__BooKz/status/1196469822055317504",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 44
+            },
+            {
+                "code": "tha",
+                "percent": 47
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_378666600",
+                "updated_time": 1576587347634,
+                "created_time": 1553068617171,
+                "ori_id": "378666600",
+                "name": "Notez__BooKz",
+                "display_name": "【N.Bz】",
+                "link": "https://twitter.com/Notez__BooKz",
+                "img": "http://pbs.twimg.com/profile_images/1096121328644452352/-jwRyF2c_normal.jpg",
+                "tw_followers_count": 64,
+                "tw_statuses_count": 88043,
+                "tw_friends_count": 453
+            },
+            "to": {
+                "id": "twitter_1133027972447756288",
+                "updated_time": 1577074517955,
+                "created_time": 1558980160298,
+                "ori_id": "1133027972447756288",
+                "name": "MarkCity0330",
+                "display_name": "☆*MarkCity0330*☆",
+                "link": "https://twitter.com/MarkCity0330",
+                "img": "http://pbs.twimg.com/profile_images/1196372332236828673/ZLRCZCY2_normal.jpg",
+                "tw_followers_count": 478,
+                "tw_statuses_count": 1191,
+                "tw_friends_count": 3
+            },
+            "on": {
+                "id": "twitter_378666600",
+                "updated_time": 1576587347634,
+                "created_time": 1553068617171,
+                "ori_id": "378666600",
+                "name": "Notez__BooKz",
+                "display_name": "【N.Bz】",
+                "link": "https://twitter.com/Notez__BooKz",
+                "img": "http://pbs.twimg.com/profile_images/1096121328644452352/-jwRyF2c_normal.jpg",
+                "tw_followers_count": 64,
+                "tw_statuses_count": 88043,
+                "tw_friends_count": 453
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181146",
+        "updated_time": 1574095621166,
+        "sys_time": 1574095621166,
+        "last_action_time": 1576828663680,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "378666600"
+    },
+    {
+        "id": "256_tw_1153146105762205696_1196469817412218882",
+        "mid": "tw_1153146105762205696_1196469817412218882",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @Pound_tv5: 2หนุ่มมาส่งเข้านอน อย่าลืมติดตาม เคว้ง ด้วยนะครับ ทาง #Netflix #เคว้ง @perthppe #รอยยิ้มของชูครีม  @weTEMPTyou https://t.co/osSisn3lfM",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 76
+            },
+            {
+                "code": "en",
+                "percent": 22
+            }
+        ],
+        "link": "http://twitter.com/ao4TxZWMqM5kTbL/status/1196469817412218882",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 38
+            },
+            {
+                "code": "tha",
+                "percent": 51
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1153146105762205696",
+                "updated_time": 1577080774493,
+                "created_time": 1563945704090,
+                "ori_id": "1153146105762205696",
+                "gender": 1,
+                "name": "ao4TxZWMqM5kTbL",
+                "display_name": "ความทรงจำสีจาง🖤🖤",
+                "link": "https://twitter.com/ao4TxZWMqM5kTbL",
+                "img": "http://pbs.twimg.com/profile_images/1196036666760167424/Yc7DuKFn_normal.jpg",
+                "tw_followers_count": 105,
+                "tw_statuses_count": 102635,
+                "tw_friends_count": 61
+            },
+            "to": {
+                "id": "twitter_515447630",
+                "updated_time": 1576983771770,
+                "created_time": 1555741406490,
+                "ori_id": "515447630",
+                "name": "Pound_tv5",
+                "display_name": "pound",
+                "link": "https://twitter.com/Pound_tv5",
+                "img": "http://pbs.twimg.com/profile_images/927065081745088512/VE-FdJmS_normal.jpg",
+                "tw_followers_count": 165,
+                "tw_statuses_count": 700,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_1153146105762205696",
+                "updated_time": 1577080774493,
+                "created_time": 1563945704090,
+                "ori_id": "1153146105762205696",
+                "gender": 1,
+                "name": "ao4TxZWMqM5kTbL",
+                "display_name": "ความทรงจำสีจาง🖤🖤",
+                "link": "https://twitter.com/ao4TxZWMqM5kTbL",
+                "img": "http://pbs.twimg.com/profile_images/1196036666760167424/Yc7DuKFn_normal.jpg",
+                "tw_followers_count": 105,
+                "tw_statuses_count": 102635,
+                "tw_friends_count": 61
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181146",
+        "updated_time": 1574095613633,
+        "sys_time": 1574095613633,
+        "last_action_time": 1576828663718,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1153146105762205696"
+    },
+    {
+        "id": "256_tw_863219972_1196469586901684225",
+        "mid": "tw_863219972_1196469586901684225",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @netflixth: เมื่อทั้งเกาะเหลือเพียงนักเรียนกลุ่มหนึ่งที่รอดชีวิต และยิ่งพยายามหนีออกไป กลับยิ่งจมลึกในปริศนาที่พวกเขาไม่อยากพบคำตอบ #เคว้ง #TheStrandedNetflix",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 91
+            }
+        ],
+        "link": "http://twitter.com/ryoryo_5/status/1196469586901684225",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 19
+            },
+            {
+                "code": "tha",
+                "percent": 79
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_863219972",
+                "updated_time": 1576830424483,
+                "created_time": 1553072538733,
+                "ori_id": "863219972",
+                "name": "ryoryo_5",
+                "display_name": "ตะแบ้กแก็ก",
+                "link": "https://twitter.com/ryoryo_5",
+                "img": "http://pbs.twimg.com/profile_images/1202597331662585856/-Qu7fewE_normal.jpg",
+                "tw_followers_count": 71,
+                "tw_statuses_count": 40268,
+                "tw_friends_count": 278
+            },
+            "to": {
+                "id": "twitter_856908850959482880",
+                "updated_time": 1577083335799,
+                "created_time": 1553067868170,
+                "ori_id": "856908850959482880",
+                "name": "netflixth",
+                "display_name": "Netflix Thailand",
+                "link": "https://twitter.com/netflixth",
+                "img": "http://pbs.twimg.com/profile_images/856909714390634496/GrQzag25_normal.jpg",
+                "tw_followers_count": 378780,
+                "tw_statuses_count": 1946,
+                "tw_friends_count": 53
+            },
+            "on": {
+                "id": "twitter_863219972",
+                "updated_time": 1576830424483,
+                "created_time": 1553072538733,
+                "ori_id": "863219972",
+                "name": "ryoryo_5",
+                "display_name": "ตะแบ้กแก็ก",
+                "link": "https://twitter.com/ryoryo_5",
+                "img": "http://pbs.twimg.com/profile_images/1202597331662585856/-Qu7fewE_normal.jpg",
+                "tw_followers_count": 71,
+                "tw_statuses_count": 40268,
+                "tw_friends_count": 278
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181145",
+        "updated_time": 1574096039082,
+        "sys_time": 1574096039082,
+        "last_action_time": 1576828663670,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "863219972"
+    },
+    {
+        "id": "256_tw_3667145114_1196469575396708360",
+        "mid": "tw_3667145114_1196469575396708360",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @gangbearegg: ในเรื่อง ' เคว้ง ' นิ้ง รับบทเป็น น้ำ ส่วนตัวคือชอบนางมากเป็นผู้หญิงที่เท่มาก มีสไตล์และคาแรคเตอร์ที่ชัด และที่สำคัญไม่ว่าจะผมยาวหรือโกนผมคือนางแซ่บมากพริกร้อยเม็ดไปเลย \n#เคว้ง \n#TheStrandedNetflix https://t.co/sSLOVgOXRi",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 89
+            },
+            {
+                "code": "en",
+                "percent": 7
+            }
+        ],
+        "link": "http://twitter.com/Tuktik_Kaori/status/1196469575396708360",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 22
+            },
+            {
+                "code": "tha",
+                "percent": 72
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_3667145114",
+                "updated_time": 1576901824899,
+                "created_time": 1553078983600,
+                "ori_id": "3667145114",
+                "name": "Tuktik_Kaori",
+                "display_name": "This is TT",
+                "link": "https://twitter.com/Tuktik_Kaori",
+                "img": "http://pbs.twimg.com/profile_images/1104102132301484032/7RzdIrMZ_normal.jpg",
+                "tw_followers_count": 37,
+                "tw_statuses_count": 8090,
+                "tw_friends_count": 561
+            },
+            "to": {
+                "id": "twitter_2988474979",
+                "updated_time": 1577074330586,
+                "created_time": 1553093275920,
+                "ori_id": "2988474979",
+                "name": "gangbearegg",
+                "display_name": "หมีไข่. 🐻",
+                "link": "https://twitter.com/gangbearegg",
+                "img": "http://pbs.twimg.com/profile_images/1186492019327193089/YILg9jiT_normal.jpg",
+                "tw_followers_count": 221531,
+                "tw_statuses_count": 19371,
+                "tw_friends_count": 192
+            },
+            "on": {
+                "id": "twitter_3667145114",
+                "updated_time": 1576901824899,
+                "created_time": 1553078983600,
+                "ori_id": "3667145114",
+                "name": "Tuktik_Kaori",
+                "display_name": "This is TT",
+                "link": "https://twitter.com/Tuktik_Kaori",
+                "img": "http://pbs.twimg.com/profile_images/1104102132301484032/7RzdIrMZ_normal.jpg",
+                "tw_followers_count": 37,
+                "tw_statuses_count": 8090,
+                "tw_friends_count": 561
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181145",
+        "updated_time": 1574095621179,
+        "sys_time": 1574095556057,
+        "last_action_time": 1576828663702,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "3667145114"
+    },
+    {
+        "id": "256_tw_1081826255794724864_1196469547202568192",
+        "mid": "tw_1081826255794724864_1196469547202568192",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @_kasy_: ถ้าตัดพาร์ทเหนือธรรมชาติออกไป #เคว้ง สะท้อนสังคมได้ดี โดยเฉพาะตัวละครอนันต์ เป็นตัวที่สมเหตุสมผลมากตัวนึง ชอบการปูปมในใจ แล้วค่อยๆ ผูกเรื่องไล่ระดับให้เห็นพัฒนาการของตัวละคร เหมือนเตือนสติคนดูว่า ณ จุดนึงเราอาจจะพัฒนาตัวเองไปเป็นอนันต์อย่างไม่รู้ตัวก็ได้ #TheStrandedNetflix https://t.co/f1TaQa7vrj",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 93
+            },
+            {
+                "code": "en",
+                "percent": 6
+            }
+        ],
+        "link": "http://twitter.com/kanomsaimai2/status/1196469547202568192",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 14
+            },
+            {
+                "code": "tha",
+                "percent": 82
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1081826255794724864",
+                "updated_time": 1576830410114,
+                "created_time": 1546768078813,
+                "ori_id": "1081826255794724864",
+                "gender": 2,
+                "name": "kanomsaimai2",
+                "display_name": "kanomsaimai",
+                "link": "https://twitter.com/kanomsaimai2",
+                "img": "http://pbs.twimg.com/profile_images/1172532051406229504/Iv1gXJ9j_normal.jpg",
+                "tw_followers_count": 9,
+                "tw_statuses_count": 235
+            },
+            "to": {
+                "id": "twitter_1126527453256486912",
+                "updated_time": 1576522049970,
+                "created_time": 1569670038997,
+                "ori_id": "1126527453256486912",
+                "name": "_kasy_",
+                "display_name": "kasy",
+                "link": "https://twitter.com/_kasy_",
+                "img": "http://pbs.twimg.com/profile_images/1178379545562374144/TM-a00hV_normal.jpg",
+                "tw_followers_count": 20,
+                "tw_statuses_count": 991,
+                "tw_friends_count": 46
+            },
+            "on": {
+                "id": "twitter_1081826255794724864",
+                "updated_time": 1576830410114,
+                "created_time": 1546768078813,
+                "ori_id": "1081826255794724864",
+                "gender": 2,
+                "name": "kanomsaimai2",
+                "display_name": "kanomsaimai",
+                "link": "https://twitter.com/kanomsaimai2",
+                "img": "http://pbs.twimg.com/profile_images/1172532051406229504/Iv1gXJ9j_normal.jpg",
+                "tw_followers_count": 9,
+                "tw_statuses_count": 235
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181145",
+        "updated_time": 1574095621139,
+        "sys_time": 1574095621139,
+        "last_action_time": 1576828663712,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1081826255794724864"
+    },
+    {
+        "id": "256_tw_1067220310666047489_1196469532933492736",
+        "mid": "tw_1067220310666047489_1196469532933492736",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @OabnithiW: @netflixth ก็ไม่เคยหายไปไหน ทำไมต้อง #เคว้ง อ่ะ",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 80
+            },
+            {
+                "code": "en",
+                "percent": 19
+            }
+        ],
+        "link": "http://twitter.com/ead_eed/status/1196469532933492736",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 36
+            },
+            {
+                "code": "tha",
+                "percent": 57
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1067220310666047489",
+                "updated_time": 1576922251039,
+                "created_time": 1553076724170,
+                "ori_id": "1067220310666047489",
+                "name": "ead_eed",
+                "display_name": "eed_eed",
+                "link": "https://twitter.com/ead_eed",
+                "img": "http://pbs.twimg.com/profile_images/1179917679848591360/olqSoPxs_normal.jpg",
+                "tw_followers_count": 2,
+                "tw_statuses_count": 2633,
+                "tw_friends_count": 45
+            },
+            "to": {
+                "id": "twitter_377759693",
+                "updated_time": 1577082824628,
+                "created_time": 1553068348726,
+                "ori_id": "377759693",
+                "name": "OabnithiW",
+                "display_name": "Oabnithi",
+                "link": "https://twitter.com/OabnithiW",
+                "img": "http://pbs.twimg.com/profile_images/681003294475464704/YGIrZtgT_normal.jpg",
+                "tw_followers_count": 209038,
+                "tw_statuses_count": 17847,
+                "tw_friends_count": 164
+            },
+            "on": {
+                "id": "twitter_1067220310666047489",
+                "updated_time": 1576922251039,
+                "created_time": 1553076724170,
+                "ori_id": "1067220310666047489",
+                "name": "ead_eed",
+                "display_name": "eed_eed",
+                "link": "https://twitter.com/ead_eed",
+                "img": "http://pbs.twimg.com/profile_images/1179917679848591360/olqSoPxs_normal.jpg",
+                "tw_followers_count": 2,
+                "tw_statuses_count": 2633,
+                "tw_friends_count": 45
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181145",
+        "updated_time": 1574095545788,
+        "sys_time": 1574095545788,
+        "last_action_time": 1576828663660,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1067220310666047489"
+    },
+    {
+        "id": "256_tw_3667145114_1196469459399008256",
+        "mid": "tw_3667145114_1196469459399008256",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @peartunwarat: ชอบการเปิดตัวทางทีวีของซีรีส์เรื่อง #เคว้ง ดูครั้งแรกตั้งคำถามกับตัวเองเลยว่า คืออะไร เป็นอะไร พอรู้ว่าเป็นซีรีส์ก็อ๋อเลย เลยไปพิมพ์โค้ด หาว่ามันคืออะไร เลยได้คำตอบมาว่าคือพิกัด องศา ลิปดา 55555555555 #TheStrandedNetflix https://t.co/uG5qCQvUkY",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 90
+            },
+            {
+                "code": "en",
+                "percent": 9
+            }
+        ],
+        "link": "http://twitter.com/Tuktik_Kaori/status/1196469459399008256",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 20
+            },
+            {
+                "code": "tha",
+                "percent": 72
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_3667145114",
+                "updated_time": 1576901824899,
+                "created_time": 1553078983600,
+                "ori_id": "3667145114",
+                "name": "Tuktik_Kaori",
+                "display_name": "This is TT",
+                "link": "https://twitter.com/Tuktik_Kaori",
+                "img": "http://pbs.twimg.com/profile_images/1104102132301484032/7RzdIrMZ_normal.jpg",
+                "tw_followers_count": 37,
+                "tw_statuses_count": 8090,
+                "tw_friends_count": 561
+            },
+            "to": {
+                "id": "twitter_796236445",
+                "updated_time": 1577083302518,
+                "created_time": 1553067894152,
+                "ori_id": "796236445",
+                "name": "peartunwarat",
+                "display_name": "แพรจ๋าヾ",
+                "link": "https://twitter.com/peartunwarat",
+                "img": "http://pbs.twimg.com/profile_images/1122724076521320448/oKM6wang_normal.jpg",
+                "tw_followers_count": 909413,
+                "tw_statuses_count": 43736,
+                "tw_friends_count": 268
+            },
+            "on": {
+                "id": "twitter_3667145114",
+                "updated_time": 1576901824899,
+                "created_time": 1553078983600,
+                "ori_id": "3667145114",
+                "name": "Tuktik_Kaori",
+                "display_name": "This is TT",
+                "link": "https://twitter.com/Tuktik_Kaori",
+                "img": "http://pbs.twimg.com/profile_images/1104102132301484032/7RzdIrMZ_normal.jpg",
+                "tw_followers_count": 37,
+                "tw_statuses_count": 8090,
+                "tw_friends_count": 561
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181145",
+        "updated_time": 1574095621214,
+        "sys_time": 1574095621214,
+        "last_action_time": 1576828663701,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "3667145114"
+    },
+    {
+        "id": "256_ig_B5A5LM1hpQw",
+        "mid": "ig_B5A5LM1hpQw",
+        "channel": "instagram",
+        "data_type": "instagram_status",
+        "type": 2,
+        "is_topic": true,
+        "topic": "Post",
+        "desc": "อันที่จริงอนันต์เป็นคนน่ารักมาก แต่ก็มีปมที่บีบให้ดึงอีกด้านออกมา เพื่อป้องกันตัวเองจากความผิดหวัง \n#เคว้ง\n#TheStrandedNetflix",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 93
+            }
+        ],
+        "link": "https://www.instagram.com/p/B5A5LM1hpQw/",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 15
+            },
+            {
+                "code": "tha",
+                "percent": 82
+            }
+        ],
+        "domain": "instagram.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "instagram_naththth_",
+                "updated_time": 1574395928049,
+                "created_time": 1574395928050,
+                "ori_id": "naththth_",
+                "name": "naththth_",
+                "display_name": "naththth_",
+                "link": "http://instagram.com/naththth_",
+                "img": "https://instagram.find1-1.fna.fbcdn.net/vp/4c6b282eae82fec62c81b2a799a27813/5E6E107B/t51.2885-19/s150x150/58409492_416320855824412_8621124141992378368_n.jpg?_nc_ht=instagram.find1-1.fna.fbcdn.net"
+            },
+            "to": {},
+            "on": {
+                "_id": "instagram_6755173359"
+            },
+            "media": [
+                {
+                    "id": "https://instagram.find1-1.fna.fbcdn.net/v/t51.2885-15/e35/74415594_1359646934195155_1036669074041516175_n.jpg?_nc_ht=instagram.find1-1.fna.fbcdn.net&_nc_cat=107&oh=cd06aeee688d9d18713212f27a4edf0b&oe=5E7E4AE7",
+                    "mime_type": "image/jpeg"
+                }
+            ],
+            "engagement": 7,
+            "likes": 7,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181145",
+        "updated_time": 1574395928046,
+        "sys_time": 1574395928046,
+        "last_action_time": 1576828663692,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "6755173359"
+    },
+    {
+        "id": "256_tw_874088476882239489_1196469391358976000",
+        "mid": "tw_874088476882239489_1196469391358976000",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @sudsapda: มาฟังสาเหตุที่คุณไม่ควรพลาดซีรี่ส์เคว้ง จากปากนักแสดงกันค่ะ #NetflixTH #เค้วง #TheStrandedNetflix Netflix\n#โอบนิธิ #นิ้งชัญญา #มาร์คศิวัช #เพิร์ธธนพนธ์ \n-------------------------------------\nอัพเดทข่าวดาราไทย-จีน-เกาหลี &amp; ไลฟ์สไตล์สนุกๆ ทุกวันที่ sudsapda\nhttps://t.co/yPsr2yhhRf",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 83
+            },
+            {
+                "code": "hr",
+                "percent": 3
+            }
+        ],
+        "link": "http://twitter.com/chongco2008/status/1196469391358976000",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 26
+            },
+            {
+                "code": "tha",
+                "percent": 53
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_874088476882239489",
+                "updated_time": 1577081685148,
+                "created_time": 1553071995453,
+                "ori_id": "874088476882239489",
+                "name": "chongco2008",
+                "display_name": "🙄ชงโคชงโค🙄",
+                "link": "https://twitter.com/chongco2008",
+                "img": "http://pbs.twimg.com/profile_images/1125440675380469765/jt_9Cxj7_normal.jpg",
+                "tw_followers_count": 1728,
+                "tw_statuses_count": 60992,
+                "tw_friends_count": 69
+            },
+            "to": {
+                "id": "twitter_59082829",
+                "updated_time": 1577075492505,
+                "created_time": 1553067906969,
+                "ori_id": "59082829",
+                "name": "sudsapda",
+                "display_name": "SUDSAPDA",
+                "link": "https://twitter.com/sudsapda",
+                "img": "http://pbs.twimg.com/profile_images/1201365202865807360/8ObNEEhM_normal.jpg",
+                "tw_followers_count": 21360,
+                "tw_statuses_count": 23634,
+                "tw_friends_count": 43
+            },
+            "on": {
+                "id": "twitter_874088476882239489",
+                "updated_time": 1577081685148,
+                "created_time": 1553071995453,
+                "ori_id": "874088476882239489",
+                "name": "chongco2008",
+                "display_name": "🙄ชงโคชงโค🙄",
+                "link": "https://twitter.com/chongco2008",
+                "img": "http://pbs.twimg.com/profile_images/1125440675380469765/jt_9Cxj7_normal.jpg",
+                "tw_followers_count": 1728,
+                "tw_statuses_count": 60992,
+                "tw_friends_count": 69
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181145",
+        "updated_time": 1574095509713,
+        "sys_time": 1574095509713,
+        "last_action_time": 1576828663686,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "874088476882239489"
+    },
+    {
+        "id": "256_fb_2868095309877238_2868739659812803",
+        "mid": "fb_2868095309877238_2868739659812803",
+        "channel": "facebook",
+        "data_type": "facebook_tl",
+        "type": 2,
+        "is_topic": false,
+        "topic": "Commented",
+        "desc": "Neen Phithiwat นี่เข้าใจว่าเฉพาะคนที่มาปาร์ตี้เท่านั้นที่รอด เพราะอยู่สูงสุด ทันเวลาพอดี",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 93
+            },
+            {
+                "code": "tn",
+                "percent": 6
+            }
+        ],
+        "link": "http://www.facebook.com/2868095309877238_2868268053193297?comment_id=2868739659812803",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 15
+            },
+            {
+                "code": "tha",
+                "percent": 85
+            }
+        ],
+        "domain": "facebook.com",
+        "info": {
+            "default_country": "th",
+            "from": {},
+            "to": {},
+            "on": {},
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181144",
+        "updated_time": 1574222278308,
+        "sys_time": 1574135577599,
+        "last_action_time": 1576828663675,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24933",
+                        "name": "Price"
+                    },
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            },
+            {
+                "id": "5dd2467e57633c7e4fb61355",
+                "name": "คราม",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24933",
+                        "name": "Price"
+                    },
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z"
+    },
+    {
+        "id": "256_fb_809111939542799_812353952551931",
+        "mid": "fb_809111939542799_812353952551931",
+        "channel": "facebook",
+        "data_type": "facebook_tl",
+        "type": 2,
+        "is_topic": false,
+        "topic": "Commented",
+        "desc": "Nattapat Musikawong เสียค่าใช้จ่ายไหมคะ",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 73
+            }
+        ],
+        "link": "http://www.facebook.com/809111939542799_811855862601740?comment_id=812353952551931",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 49
+            },
+            {
+                "code": "tha",
+                "percent": 51
+            }
+        ],
+        "domain": "facebook.com",
+        "info": {
+            "default_country": "th",
+            "from": {},
+            "to": {},
+            "on": {
+                "id": "facebook_272824953171503",
+                "updated_time": 1577075538812,
+                "created_time": 1553066544757,
+                "ori_id": "272824953171503",
+                "gender": 1,
+                "name": "272824953171503",
+                "display_name": "Netflix",
+                "link": "https://www.facebook.com/272824953171503",
+                "img": "https://graph.facebook.com/272824953171503/picture",
+                "fb_talk_about": 89969,
+                "fb_fan_count": 61870653
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181144",
+        "updated_time": 1574097998014,
+        "sys_time": 1574097998014,
+        "last_action_time": 1576828663641,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "272824953171503"
+    },
+    {
+        "id": "256_tw_735482756524740609_1196469192028934145",
+        "mid": "tw_735482756524740609_1196469192028934145",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @netflixth: เมื่อนักเรียนทั้ง 36 ชีวิตติดเกาะเพียงลำพัง และค้นพบว่าสิ่งที่น่ากลัวที่สุด อาจไม่ได้อยู่ในเกาะ แต่อยู่ภายในใจตัวเอง #เคว้ง #TheStrandedNetflix",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 91
+            }
+        ],
+        "link": "http://twitter.com/gingpaiei/status/1196469192028934145",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 19
+            },
+            {
+                "code": "tha",
+                "percent": 77
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_735482756524740609",
+                "updated_time": 1576946454618,
+                "created_time": 1553071362757,
+                "ori_id": "735482756524740609",
+                "name": "gingpaiei",
+                "display_name": "sw",
+                "link": "https://twitter.com/gingpaiei",
+                "img": "http://pbs.twimg.com/profile_images/1182196269860605952/N6bAjXS8_normal.jpg",
+                "tw_followers_count": 132,
+                "tw_statuses_count": 53244,
+                "tw_friends_count": 333
+            },
+            "to": {
+                "id": "twitter_856908850959482880",
+                "updated_time": 1577083335799,
+                "created_time": 1553067868170,
+                "ori_id": "856908850959482880",
+                "name": "netflixth",
+                "display_name": "Netflix Thailand",
+                "link": "https://twitter.com/netflixth",
+                "img": "http://pbs.twimg.com/profile_images/856909714390634496/GrQzag25_normal.jpg",
+                "tw_followers_count": 378780,
+                "tw_statuses_count": 1946,
+                "tw_friends_count": 53
+            },
+            "on": {
+                "id": "twitter_735482756524740609",
+                "updated_time": 1576946454618,
+                "created_time": 1553071362757,
+                "ori_id": "735482756524740609",
+                "name": "gingpaiei",
+                "display_name": "sw",
+                "link": "https://twitter.com/gingpaiei",
+                "img": "http://pbs.twimg.com/profile_images/1182196269860605952/N6bAjXS8_normal.jpg",
+                "tw_followers_count": 132,
+                "tw_statuses_count": 53244,
+                "tw_friends_count": 333
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181144",
+        "updated_time": 1574095621535,
+        "sys_time": 1574095621535,
+        "last_action_time": 1576828663682,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "735482756524740609"
+    },
+    {
+        "id": "256_tw_429810495_1196469098013609985",
+        "mid": "tw_429810495_1196469098013609985",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @non12887: ขออีกอัน 555 แกฝ้าเพดานห้องครูหลินตัวปลอมมีรอยพญานาคอะ มีคนสังเกตเห็นเลยกลับไปดู ตอนดูครั้งแรกไม่ได้สังเกต #เคว้ง #TheStrandedNetflixTH https://t.co/FHkQwVWSuF",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 85
+            },
+            {
+                "code": "en",
+                "percent": 12
+            }
+        ],
+        "link": "http://twitter.com/KymeraPaluka/status/1196469098013609985",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 26
+            },
+            {
+                "code": "tha",
+                "percent": 63
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_429810495",
+                "updated_time": 1577082382140,
+                "created_time": 1553068676685,
+                "ori_id": "429810495",
+                "name": "KymeraPaluka",
+                "display_name": "The Corgi",
+                "link": "https://twitter.com/KymeraPaluka",
+                "img": "http://pbs.twimg.com/profile_images/1204721916063318016/H3ezxSra_normal.jpg",
+                "tw_followers_count": 1093,
+                "tw_statuses_count": 66674,
+                "tw_friends_count": 1760
+            },
+            "to": {
+                "id": "twitter_43168812",
+                "updated_time": 1577080820774,
+                "created_time": 1553110042146,
+                "ori_id": "43168812",
+                "name": "non12887",
+                "display_name": "Non_Phanu",
+                "link": "https://twitter.com/non12887",
+                "img": "http://pbs.twimg.com/profile_images/1195811565427015680/zU4ryxUU_normal.jpg",
+                "tw_followers_count": 301,
+                "tw_statuses_count": 20802,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_429810495",
+                "updated_time": 1577082382140,
+                "created_time": 1553068676685,
+                "ori_id": "429810495",
+                "name": "KymeraPaluka",
+                "display_name": "The Corgi",
+                "link": "https://twitter.com/KymeraPaluka",
+                "img": "http://pbs.twimg.com/profile_images/1204721916063318016/H3ezxSra_normal.jpg",
+                "tw_followers_count": 1093,
+                "tw_statuses_count": 66674,
+                "tw_friends_count": 1760
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181143",
+        "updated_time": 1574095622238,
+        "sys_time": 1574095622238,
+        "last_action_time": 1576828663703,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "429810495"
+    },
+    {
+        "id": "256_tw_1153146105762205696_1196469012323979271",
+        "mid": "tw_1153146105762205696_1196469012323979271",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 1,
+        "is_topic": false,
+        "topic": "Replied",
+        "desc": "@01jawl0ZCOmqo7Z สมัคร Netflix รึยังคะ\nถ้ายัง_ก็ดูไม่ได้น้าา..รีบสมัครด่วนเลยนะคะ_อ่อ_อีกอย่าง\n\nน้องเพิร์ธอุตส่าห์ออกมาชวนดูเคว้งกันเยอะๆแล้วนะคะ\nซีรี่ย์จะได้ดังๆปังๆไม่แป๊ก\nสนับสนุนทุกชิ้นงานของน้องกันเถอะ",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 95
+            }
+        ],
+        "link": "http://twitter.com/ao4TxZWMqM5kTbL/status/1196469012323979271",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 9
+            },
+            {
+                "code": "tha",
+                "percent": 84
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1153146105762205696",
+                "updated_time": 1577080774493,
+                "created_time": 1563945704090,
+                "ori_id": "1153146105762205696",
+                "gender": 1,
+                "name": "ao4TxZWMqM5kTbL",
+                "display_name": "ความทรงจำสีจาง🖤🖤",
+                "link": "https://twitter.com/ao4TxZWMqM5kTbL",
+                "img": "http://pbs.twimg.com/profile_images/1196036666760167424/Yc7DuKFn_normal.jpg",
+                "tw_followers_count": 105,
+                "tw_statuses_count": 102635,
+                "tw_friends_count": 61
+            },
+            "to": {
+                "id": "twitter_1153301760766648320",
+                "updated_time": 1577080826959,
+                "created_time": 1565574782579,
+                "ori_id": "1153301760766648320",
+                "name": "01jawl0ZCOmqo7Z",
+                "display_name": "นะนัน .",
+                "link": "https://twitter.com/01jawl0ZCOmqo7Z",
+                "img": "http://pbs.twimg.com/profile_images/1166496398482665472/4eDrsMuQ_normal.jpg",
+                "tw_followers_count": 8,
+                "tw_statuses_count": 10948,
+                "tw_friends_count": 110
+            },
+            "on": {
+                "id": "twitter_1153146105762205696",
+                "updated_time": 1577080774493,
+                "created_time": 1563945704090,
+                "ori_id": "1153146105762205696",
+                "gender": 1,
+                "name": "ao4TxZWMqM5kTbL",
+                "display_name": "ความทรงจำสีจาง🖤🖤",
+                "link": "https://twitter.com/ao4TxZWMqM5kTbL",
+                "img": "http://pbs.twimg.com/profile_images/1196036666760167424/Yc7DuKFn_normal.jpg",
+                "tw_followers_count": 105,
+                "tw_statuses_count": 102635,
+                "tw_friends_count": 61
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181143",
+        "updated_time": 1574095621182,
+        "sys_time": 1574095621182,
+        "last_action_time": 1576828663717,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1153146105762205696"
+    },
+    {
+        "id": "256_tw_1185210120499712000_1196468992962990080",
+        "mid": "tw_1185210120499712000_1196468992962990080",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @JOMMJOM: พระเอกเรื่อง #เคว้ง 'บีม-ปภังกร' ก็คือคมเข้มมาก ฉันรักผู้ชายคม #TheStrandedNetflix https://t.co/kjye8j29um",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 76
+            },
+            {
+                "code": "en",
+                "percent": 23
+            }
+        ],
+        "link": "http://twitter.com/realploypailin/status/1196468992962990080",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 38
+            },
+            {
+                "code": "tha",
+                "percent": 49
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1185210120499712000",
+                "updated_time": 1576830361452,
+                "created_time": 1571667535310,
+                "ori_id": "1185210120499712000",
+                "name": "realploypailin",
+                "display_name": "realyim",
+                "link": "https://twitter.com/realploypailin",
+                "img": "http://pbs.twimg.com/profile_images/1185210260274827264/ALDVMT9g_normal.jpg",
+                "tw_followers_count": 2,
+                "tw_statuses_count": 465,
+                "tw_friends_count": 33
+            },
+            "to": {
+                "id": "twitter_61246988",
+                "updated_time": 1577083213346,
+                "created_time": 1553067863766,
+                "ori_id": "61246988",
+                "name": "JOMMJOM",
+                "display_name": "ลิตเติ้ลเจ 🌻",
+                "link": "https://twitter.com/JOMMJOM",
+                "img": "http://pbs.twimg.com/profile_images/1097919963564658688/Qh5KQRmH_normal.jpg",
+                "tw_followers_count": 69470,
+                "tw_statuses_count": 38562,
+                "tw_friends_count": 794
+            },
+            "on": {
+                "id": "twitter_1185210120499712000",
+                "updated_time": 1576830361452,
+                "created_time": 1571667535310,
+                "ori_id": "1185210120499712000",
+                "name": "realploypailin",
+                "display_name": "realyim",
+                "link": "https://twitter.com/realploypailin",
+                "img": "http://pbs.twimg.com/profile_images/1185210260274827264/ALDVMT9g_normal.jpg",
+                "tw_followers_count": 2,
+                "tw_statuses_count": 465,
+                "tw_friends_count": 33
+            },
+            "media": [
+                {
+                    "id": "http://pbs.twimg.com/media/EJZohprUUAAV5Xu.jpg",
+                    "mime_type": "image/jpeg"
+                },
+                {
+                    "id": "http://pbs.twimg.com/media/EJZohptU0AA2A-I.jpg",
+                    "mime_type": "image/jpeg"
+                },
+                {
+                    "id": "http://pbs.twimg.com/media/EJZohpuUUAI8nUR.jpg",
+                    "mime_type": "image/jpeg"
+                }
+            ],
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181143",
+        "updated_time": 1574095576845,
+        "sys_time": 1574095576845,
+        "last_action_time": 1576828663662,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1185210120499712000"
+    },
+    {
+        "id": "256_tw_1159038223584092160_1196468858820841472",
+        "mid": "tw_1159038223584092160_1196468858820841472",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @Pound_tv5: 2หนุ่มมาส่งเข้านอน อย่าลืมติดตาม เคว้ง ด้วยนะครับ ทาง #Netflix #เคว้ง @perthppe #รอยยิ้มของชูครีม  @weTEMPTyou https://t.co/osSisn3lfM",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 76
+            },
+            {
+                "code": "en",
+                "percent": 22
+            }
+        ],
+        "link": "http://twitter.com/IMNOBODY8888/status/1196468858820841472",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 38
+            },
+            {
+                "code": "tha",
+                "percent": 51
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1159038223584092160",
+                "updated_time": 1577080680100,
+                "created_time": 1565174016802,
+                "ori_id": "1159038223584092160",
+                "name": "IMNOBODY8888",
+                "display_name": "IMNOBODY",
+                "link": "https://twitter.com/IMNOBODY8888",
+                "img": "http://pbs.twimg.com/profile_images/1207191436417830912/Lck3Z6Kx_normal.jpg",
+                "tw_followers_count": 1016,
+                "tw_statuses_count": 28896,
+                "tw_friends_count": 244
+            },
+            "to": {
+                "id": "twitter_515447630",
+                "updated_time": 1576983771770,
+                "created_time": 1555741406490,
+                "ori_id": "515447630",
+                "name": "Pound_tv5",
+                "display_name": "pound",
+                "link": "https://twitter.com/Pound_tv5",
+                "img": "http://pbs.twimg.com/profile_images/927065081745088512/VE-FdJmS_normal.jpg",
+                "tw_followers_count": 165,
+                "tw_statuses_count": 700,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_1159038223584092160",
+                "updated_time": 1577080680100,
+                "created_time": 1565174016802,
+                "ori_id": "1159038223584092160",
+                "name": "IMNOBODY8888",
+                "display_name": "IMNOBODY",
+                "link": "https://twitter.com/IMNOBODY8888",
+                "img": "http://pbs.twimg.com/profile_images/1207191436417830912/Lck3Z6Kx_normal.jpg",
+                "tw_followers_count": 1016,
+                "tw_statuses_count": 28896,
+                "tw_friends_count": 244
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181142",
+        "updated_time": 1574095385071,
+        "sys_time": 1574095385071,
+        "last_action_time": 1576828663718,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1159038223584092160"
+    },
+    {
+        "id": "256_tw_701278878774353921_1196468816466698240",
+        "mid": "tw_701278878774353921_1196468816466698240",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @netflixth: เมื่อนักเรียนทั้ง 36 ชีวิตติดเกาะเพียงลำพัง และค้นพบว่าสิ่งที่น่ากลัวที่สุด อาจไม่ได้อยู่ในเกาะ แต่อยู่ภายในใจตัวเอง #เคว้ง #TheStrandedNetflix",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 91
+            }
+        ],
+        "link": "http://twitter.com/Titoon_Indy/status/1196468816466698240",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 19
+            },
+            {
+                "code": "tha",
+                "percent": 77
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_701278878774353921",
+                "updated_time": 1577029859973,
+                "created_time": 1553074108349,
+                "ori_id": "701278878774353921",
+                "gender": 2,
+                "name": "Titoon_Indy",
+                "display_name": "พิก้าของน้อง...",
+                "link": "https://twitter.com/Titoon_Indy",
+                "img": "http://pbs.twimg.com/profile_images/1115325563114119168/OzhIo502_normal.jpg",
+                "tw_followers_count": 35,
+                "tw_statuses_count": 14352,
+                "tw_friends_count": 390
+            },
+            "to": {
+                "id": "twitter_856908850959482880",
+                "updated_time": 1577083335799,
+                "created_time": 1553067868170,
+                "ori_id": "856908850959482880",
+                "name": "netflixth",
+                "display_name": "Netflix Thailand",
+                "link": "https://twitter.com/netflixth",
+                "img": "http://pbs.twimg.com/profile_images/856909714390634496/GrQzag25_normal.jpg",
+                "tw_followers_count": 378780,
+                "tw_statuses_count": 1946,
+                "tw_friends_count": 53
+            },
+            "on": {
+                "id": "twitter_701278878774353921",
+                "updated_time": 1577029859973,
+                "created_time": 1553074108349,
+                "ori_id": "701278878774353921",
+                "gender": 2,
+                "name": "Titoon_Indy",
+                "display_name": "พิก้าของน้อง...",
+                "link": "https://twitter.com/Titoon_Indy",
+                "img": "http://pbs.twimg.com/profile_images/1115325563114119168/OzhIo502_normal.jpg",
+                "tw_followers_count": 35,
+                "tw_statuses_count": 14352,
+                "tw_friends_count": 390
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181142",
+        "updated_time": 1574095621160,
+        "sys_time": 1574095621160,
+        "last_action_time": 1576828663705,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "701278878774353921"
+    },
+    {
+        "id": "256_fb_2868095309877238_2868735946479841",
+        "mid": "fb_2868095309877238_2868735946479841",
+        "channel": "facebook",
+        "data_type": "facebook_tl",
+        "type": 2,
+        "is_topic": false,
+        "topic": "Commented",
+        "desc": "นี่ฟังไทยแล้วแปลกๆ เลยไปฟังอิ้ง  ไม่ได้ตอแหลดัดจริตนะ แต่มันดีขึ้น สีหน้าทุกคนแสดงออกอารมเข้ากับสถานการได้ดี แต่บางทีภาษาไทยทำให้ขัดๆอารมนิดหน่อย",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 100
+            }
+        ],
+        "link": "http://www.facebook.com/209127439107385_2868095309877238?comment_id=2868735946479841",
+        "alphabet_langs": [
+            {
+                "code": "tha",
+                "percent": 100
+            }
+        ],
+        "domain": "facebook.com",
+        "info": {
+            "default_country": "th",
+            "from": {},
+            "to": {},
+            "on": {},
+            "media": null,
+            "engagement": 1,
+            "likes": 1,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181142",
+        "updated_time": 1574222278241,
+        "sys_time": 1574135577541,
+        "last_action_time": 1576828663673,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24933",
+                        "name": "Price"
+                    },
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            },
+            {
+                "id": "5dd2467e57633c7e4fb61355",
+                "name": "คราม",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24933",
+                        "name": "Price"
+                    },
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z"
+    },
+    {
+        "id": "256_tw_3667145114_1196468416426627074",
+        "mid": "tw_3667145114_1196468416426627074",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @Bitter_Caramelz: ถ้าถามว่าตอนจบ ครามโผล่ไปอยู่ที่ไหน กูตอบได้เลยว่า นาดาวบางกอก\n#TheStrandedNetflix \n#เคว้ง https://t.co/38WZp9awra",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 76
+            }
+        ],
+        "link": "http://twitter.com/Tuktik_Kaori/status/1196468416426627074",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 38
+            },
+            {
+                "code": "tha",
+                "percent": 50
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_3667145114",
+                "updated_time": 1576901824899,
+                "created_time": 1553078983600,
+                "ori_id": "3667145114",
+                "name": "Tuktik_Kaori",
+                "display_name": "This is TT",
+                "link": "https://twitter.com/Tuktik_Kaori",
+                "img": "http://pbs.twimg.com/profile_images/1104102132301484032/7RzdIrMZ_normal.jpg",
+                "tw_followers_count": 37,
+                "tw_statuses_count": 8090,
+                "tw_friends_count": 561
+            },
+            "to": {
+                "id": "twitter_125023521",
+                "updated_time": 1577083335830,
+                "created_time": 1553067742847,
+                "ori_id": "125023521",
+                "name": "Bitter_Caramelz",
+                "display_name": "ด.ช.นี่ ㅎㅅㅎ",
+                "link": "https://twitter.com/Bitter_Caramelz",
+                "img": "http://pbs.twimg.com/profile_images/986838107361132544/Y4HXa5Qb_normal.jpg",
+                "tw_followers_count": 11666,
+                "tw_statuses_count": 321818,
+                "tw_friends_count": 962
+            },
+            "on": {
+                "id": "twitter_3667145114",
+                "updated_time": 1576901824899,
+                "created_time": 1553078983600,
+                "ori_id": "3667145114",
+                "name": "Tuktik_Kaori",
+                "display_name": "This is TT",
+                "link": "https://twitter.com/Tuktik_Kaori",
+                "img": "http://pbs.twimg.com/profile_images/1104102132301484032/7RzdIrMZ_normal.jpg",
+                "tw_followers_count": 37,
+                "tw_statuses_count": 8090,
+                "tw_friends_count": 561
+            },
+            "media": [
+                {
+                    "id": "http://pbs.twimg.com/media/EJf8D2zUwAAlFZC.jpg",
+                    "mime_type": "image/jpeg"
+                },
+                {
+                    "id": "http://pbs.twimg.com/media/EJf8D21U0AATCOv.jpg",
+                    "mime_type": "image/jpeg"
+                },
+                {
+                    "id": "http://pbs.twimg.com/media/EJf8D22UUAIp6D9.jpg",
+                    "mime_type": "image/jpeg"
+                }
+            ],
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181141",
+        "updated_time": 1574095397511,
+        "sys_time": 1574095397511,
+        "last_action_time": 1576828663700,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd2467e57633c7e4fb61355",
+                "name": "คราม",
+                "sentiment": 0
+            },
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "3667145114"
+    },
+    {
+        "id": "256_tw_1567135633_1196468376098394117",
+        "mid": "tw_1567135633_1196468376098394117",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @Pound_tv5: 2หนุ่มมาส่งเข้านอน อย่าลืมติดตาม เคว้ง ด้วยนะครับ ทาง #Netflix #เคว้ง @perthppe #รอยยิ้มของชูครีม  @weTEMPTyou https://t.co/osSisn3lfM",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 76
+            },
+            {
+                "code": "en",
+                "percent": 22
+            }
+        ],
+        "link": "http://twitter.com/MD_PPE/status/1196468376098394117",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 38
+            },
+            {
+                "code": "tha",
+                "percent": 51
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1567135633",
+                "updated_time": 1577080811849,
+                "created_time": 1559050617974,
+                "ori_id": "1567135633",
+                "name": "MD_PPE",
+                "display_name": "𝐦..ʕ•ᴥ•ʔ",
+                "link": "https://twitter.com/MD_PPE",
+                "img": "http://pbs.twimg.com/profile_images/1194495407948091392/VtdLqvyX_normal.jpg",
+                "tw_followers_count": 217,
+                "tw_statuses_count": 93528,
+                "tw_friends_count": 250
+            },
+            "to": {
+                "id": "twitter_515447630",
+                "updated_time": 1576983771770,
+                "created_time": 1555741406490,
+                "ori_id": "515447630",
+                "name": "Pound_tv5",
+                "display_name": "pound",
+                "link": "https://twitter.com/Pound_tv5",
+                "img": "http://pbs.twimg.com/profile_images/927065081745088512/VE-FdJmS_normal.jpg",
+                "tw_followers_count": 165,
+                "tw_statuses_count": 700,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_1567135633",
+                "updated_time": 1577080811849,
+                "created_time": 1559050617974,
+                "ori_id": "1567135633",
+                "name": "MD_PPE",
+                "display_name": "𝐦..ʕ•ᴥ•ʔ",
+                "link": "https://twitter.com/MD_PPE",
+                "img": "http://pbs.twimg.com/profile_images/1194495407948091392/VtdLqvyX_normal.jpg",
+                "tw_followers_count": 217,
+                "tw_statuses_count": 93528,
+                "tw_friends_count": 250
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181141",
+        "updated_time": 1574095269984,
+        "sys_time": 1574095269984,
+        "last_action_time": 1576828663649,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1567135633"
+    },
+    {
+        "id": "256_tw_614966842_1196468368334675968",
+        "mid": "tw_614966842_1196468368334675968",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @ursunshine90: พี่หญิงในเรื่อง หลังจากไปส่องไอจีมาแล้วรักมากกก แงงง;-;\n             IG : _thelittleteapot_\n#TheStrandedNetflixTH #เคว้ง https://t.co/5OHmQE1ynz",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 68
+            }
+        ],
+        "link": "http://twitter.com/weewiarchii_/status/1196468368334675968",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 46
+            },
+            {
+                "code": "tha",
+                "percent": 39
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_614966842",
+                "updated_time": 1577078728212,
+                "created_time": 1553084398964,
+                "ori_id": "614966842",
+                "name": "weewiarchii_",
+                "display_name": "Chicken Lt.",
+                "link": "https://twitter.com/weewiarchii_",
+                "img": "http://pbs.twimg.com/profile_images/1188313732440412162/gzKEjVw5_normal.jpg",
+                "tw_followers_count": 91,
+                "tw_statuses_count": 20375,
+                "tw_friends_count": 179
+            },
+            "to": {
+                "id": "twitter_1130391396299317248",
+                "updated_time": 1576938553794,
+                "created_time": 1558804056513,
+                "ori_id": "1130391396299317248",
+                "name": "ursunshine90",
+                "display_name": "𝐜𝐨𝐨𝐥 𝐤𝐢𝐝 𝐝𝐨𝐧'𝐭 𝐜𝐫𝐲",
+                "link": "https://twitter.com/ursunshine90",
+                "img": "http://pbs.twimg.com/profile_images/1192445220094242817/r06ivHcl_normal.jpg",
+                "tw_followers_count": 4,
+                "tw_statuses_count": 1835,
+                "tw_friends_count": 135
+            },
+            "on": {
+                "id": "twitter_614966842",
+                "updated_time": 1577078728212,
+                "created_time": 1553084398964,
+                "ori_id": "614966842",
+                "name": "weewiarchii_",
+                "display_name": "Chicken Lt.",
+                "link": "https://twitter.com/weewiarchii_",
+                "img": "http://pbs.twimg.com/profile_images/1188313732440412162/gzKEjVw5_normal.jpg",
+                "tw_followers_count": 91,
+                "tw_statuses_count": 20375,
+                "tw_friends_count": 179
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181141",
+        "updated_time": 1574095622268,
+        "sys_time": 1574095622268,
+        "last_action_time": 1576828663705,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "614966842"
+    },
+    {
+        "id": "256_tw_1062531321354870784_1196468327096258561",
+        "mid": "tw_1062531321354870784_1196468327096258561",
+        "channel": "twitter",
+        "data_type": "twitter_status",
+        "type": 5,
+        "is_topic": false,
+        "topic": "Retweeted",
+        "desc": "RT @Pound_tv5: 2หนุ่มมาส่งเข้านอน อย่าลืมติดตาม เคว้ง ด้วยนะครับ ทาง #Netflix #เคว้ง @perthppe #รอยยิ้มของชูครีม  @weTEMPTyou https://t.co/osSisn3lfM",
+        "langs": [
+            {
+                "code": "th",
+                "percent": 76
+            },
+            {
+                "code": "en",
+                "percent": 22
+            }
+        ],
+        "link": "http://twitter.com/icenannazz/status/1196468327096258561",
+        "alphabet_langs": [
+            {
+                "code": "eng",
+                "percent": 38
+            },
+            {
+                "code": "tha",
+                "percent": 51
+            }
+        ],
+        "domain": "twitter.com",
+        "info": {
+            "default_country": "th",
+            "from": {
+                "id": "twitter_1062531321354870784",
+                "updated_time": 1577071833722,
+                "created_time": 1553101373848,
+                "ori_id": "1062531321354870784",
+                "name": "icenannazz",
+                "display_name": "icenannazz",
+                "link": "https://twitter.com/icenannazz",
+                "img": "http://pbs.twimg.com/profile_images/1070727258472513536/3kGEMm4H_normal.jpg",
+                "tw_followers_count": 285,
+                "tw_statuses_count": 15149,
+                "tw_friends_count": 179
+            },
+            "to": {
+                "id": "twitter_515447630",
+                "updated_time": 1576983771770,
+                "created_time": 1555741406490,
+                "ori_id": "515447630",
+                "name": "Pound_tv5",
+                "display_name": "pound",
+                "link": "https://twitter.com/Pound_tv5",
+                "img": "http://pbs.twimg.com/profile_images/927065081745088512/VE-FdJmS_normal.jpg",
+                "tw_followers_count": 165,
+                "tw_statuses_count": 700,
+                "tw_friends_count": 186
+            },
+            "on": {
+                "id": "twitter_1062531321354870784",
+                "updated_time": 1577071833722,
+                "created_time": 1553101373848,
+                "ori_id": "1062531321354870784",
+                "name": "icenannazz",
+                "display_name": "icenannazz",
+                "link": "https://twitter.com/icenannazz",
+                "img": "http://pbs.twimg.com/profile_images/1070727258472513536/3kGEMm4H_normal.jpg",
+                "tw_followers_count": 285,
+                "tw_statuses_count": 15149,
+                "tw_friends_count": 179
+            },
+            "media": null,
+            "geo": {
+                "lat": 0,
+                "lon": 0
+            }
+        },
+        "read": false,
+        "hide": false,
+        "fav": false,
+        "created_time": "201911181140",
+        "updated_time": 1574095258294,
+        "sys_time": 1574095258294,
+        "last_action_time": 1576828663658,
+        "account_id": "256",
+        "keywords": [
+            {
+                "id": "5dd24563fb1df94ecf110049",
+                "name": "เคว้ง",
+                "sentiment": 0,
+                "_tags": [
+                    {
+                        "id": "5aa4a1dd7b96840843a24934",
+                        "name": "Advertise"
+                    }
+                ]
+            }
+        ],
+        "insert_es_time": "0001-01-01T00:00:00Z",
+        "social_id": "1062531321354870784"
+    }
+]
